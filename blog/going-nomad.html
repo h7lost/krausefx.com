@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    
+      Going nomad &middot; Felix Krause
+    
+  </title>
+  
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Felix Krause" href="/feed.xml">
+  
+    <script>
+  // Google Analytics
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18658848-6', 'auto');
+  ga('set', 'anonymizeIp', true)
+  ga('send', 'pageview');
+</script>
+
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    <a class="site-title" href="/">Felix Krause</a>
+  
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+            <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+            <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          </svg>
+        </span>
+      </label>
+
+      <div class="trigger">
+        <a href="/" class="page-link active">Blog</a>
+        <a href="/privacy" class="page-link ">Privacy</a>
+        <a href="/archive" class="page-link ">Archive</a>
+        <a href="/about" class="page-link ">About</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div id="sidebar">
+  <h1 style="font-size: 21px;">Felix Krause</h1>
+  <p>Founder of <a href="https://fastlane.tools" target="_blank">fastlane.tools</a></p>
+  <p><a href="/about">More about me</a></p>
+  <img src="/assets/FelixKrause.jpeg" width="180" />
+
+  <!-- Social links -->
+  <ul class="social-media-list" style="margin-top: 20px; margin-bottom: 30px;">
+    <li>
+      <a href="https://github.com/KrauseFx" target="_blank"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">KrauseFx</span></a>
+
+    </li>
+    <li>
+      <a href="https://twitter.com/KrauseFx" target="_blank"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">KrauseFx</span></a>
+
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/KrauseFx"><span class="icon icon--linked"><svg width="16px" height="16px" viewBox="0 0 430.117 430.117" xml:space="preserve"><path id="LinkedIn" fill="#828282" d="M430.117,261.543V420.56h-92.188V272.193c0-37.271-13.334-62.707-46.703-62.707 c-25.473,0-40.632,17.142-47.301,33.724c-2.432,5.928-3.058,14.179-3.058,22.477V420.56h-92.219c0,0,1.242-251.285,0-277.32h92.21 v39.309c-0.187,0.294-0.43,0.611-0.606,0.896h0.606v-0.896c12.251-18.869,34.13-45.824,83.102-45.824 C384.633,136.724,430.117,176.361,430.117,261.543z M52.183,9.558C20.635,9.558,0,30.251,0,57.463 c0,26.619,20.038,47.94,50.959,47.94h0.616c32.159,0,52.159-21.317,52.159-47.94C103.128,30.251,83.734,9.558,52.183,9.558z M5.477,420.56h92.184v-277.32H5.477V420.56z"/></svg>
+</span><span class="username">KrauseFx</span></a>
+
+    </li>
+  </ul>
+
+  <hr />
+
+  <a href="https://whereisfelix.today" target="_blank">
+    ✈️ WhereIsFelix.today
+  </a>
+
+  <hr />
+
+  <p class="subscribe-newsletter">
+  Want to be the first to hear about more privacy and mobile related essays?
+</p>
+
+<form class="subscribe-form" action="https://krausefx.us10.list-manage.com/subscribe/post?u=a84ca3495977afb89bf2b98fb&amp;id=d9610c8987" method="post" target="popupwindow" onsubmit="window.open('https://krausefx.us10.list-manage.com/subscribe/post?u=a84ca3495977afb89bf2b98fb', 'popupwindow', 'scrollbars=yes,width=600,height=620');return true">
+  <label for="tlemail"></label>
+  <input type="text" placeholder="Email Address" name="EMAIL" id="tlemail">
+  <input type="hidden" value="1" name="embed">
+  <button type="submit" name="subscribe">
+    Subscribe
+  </button>
+</form>
+
+
+  <hr />
+
+  <div class='jekyll-twitter-plugin'><a class="twitter-timeline" data-width="500" data-tweet-limit="5" href="https://twitter.com/KrauseFx?ref_src=twsrc%5Etfw">Tweets by KrauseFx</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+</div>
+
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline"><a href="/blog/going-nomad">Going nomad</a></h1>
+    <p class="post-meta">
+      <time datetime="2018-03-24T00:00:00+00:00" itemprop="datePublished">
+        
+        Mar 24, 2018
+      </time> &nbsp; | &nbsp; 
+      <a href="https://github.com/KrauseFx/krausefx.com/edit/master/_posts/2018-03-24-going-nomad.md" target="_blank" class="forkButton">
+  <svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+ 
+  Edit on GitHub
+</a>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I got rid of all my stuff and live off only a suitcase - staying in Airbnbs to explore different areas 🏡🚀 excited to live nomad life <a href="https://t.co/nWGf7AFKiZ">pic.twitter.com/nWGf7AFKiZ</a></p>&mdash; Felix Krause (@KrauseFx) <a href="https://twitter.com/KrauseFx/status/928718106876305408?ref_src=twsrc%5Etfw">November 9, 2017</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<hr />
+
+<p><strong>Update</strong>: Check out the <a href="/blog/one-year-nomad">One Year Nomad post from 2018</a></p>
+
+<h2 id="background">Background</h2>
+
+<p>I moved to San Francisco summer 2015 to join Twitter. I lived in a furnished apartment for my first year, which I really enjoyed, as I didn’t have to buy all the essentials myself after moving across the globe into a new country.</p>
+
+<p>After my 1 year lease, I decided to do what “grown-ups” are supposed to do: get their own apartment, buy furniture, decorate the place, and make it your home. After living in my little studio for about 1.5 years, I noticed a few things:</p>
+
+<ul>
+  <li>In 2017 I only spent about 200 nights in my apartment, causing me to still pay about 5 months worth of San Francisco rent without actually living there (the average monthly lease for a studio apartment is about $3,000 + utilities, resulting in about $15,000 of my after tax money being lost)</li>
+  <li>While I enjoy having my own space, I never invested enough time and effort into making it nice: Until the day I moved out after 18 months, I still didn’t have enough closets for all my things and I had my clothes piled up in some corner</li>
+  <li>I didn’t like being bound to one location in the city. In particular, in the common case of getting acquired by another company (#justSFthings), your commute changes, and you can’t just move around</li>
+  <li>I didn’t like the fact that I was always surrounded by the same places and things became routine. Same subway station, same spots you walk by every day, same views, same commute, etc. after a month it gets boring and I need a change.</li>
+</ul>
+
+<p><img src="/assets/posts/nomad/SF-Map.png" /></p>
+
+<hr />
+
+<h2 id="the-idea">The idea</h2>
+
+<p>Ever since I first started reading <a href="https://levels.io/">@levelsio’s blog</a> in 2014, about living out of <a href="https://levels.io/carry-on-world-travel/">just a backpack</a>, and <a href="https://levels.io/remote-working-is-the-future/">traveling across the world, while working on his own startups</a>, I was fascinated by the idea. However I always assumed it doesn’t work if you have a full-time job at a large company like Twitter or Google.</p>
+
+<p>2014 was also the time I met <a href="https://twitter.com/orta">@orta</a>, who told me about his first year in New York City, where he lived in a different neighborhood in a random Airbnb each month. This allowed him to see what NYC has to offer, and what area he liked the most. I loved the idea, and kind of knew I want to do this at some point in life.</p>
+
+<p>Only in October 2017 I realized that combining those two things might actually just work.</p>
+
+<h2 id="making-the-move">Making the move</h2>
+
+<p><img src="/assets/posts/nomad/suitcases.jpg" width="240" align="right" style="margin-left: 20px" /></p>
+
+<p>After living in San Francisco for 2.5 years, I wanted a change. With my lease ending in October, I decided to reduce my life to just</p>
+
+<ul>
+  <li>1 suitcase</li>
+  <li>1 carry-on luggage</li>
+  <li>1 backpack</li>
+</ul>
+
+<p>and lived in an Airbnb in San Francisco until the winter holidays, for which I went back home to Austria. I got really lucky with my SF Airbnb, as I got it from <a href="https://zeusliving.com/">Zeus Living</a> a company that rents out apartments for people like me: rent a place per month, all utilities included, and enough space with a desk to get work done.</p>
+
+<p>For the last 6 months I’ve lived the nomad life, with just the things listed above. So far I’ve stayed in 6 different neighborhoods in NYC, 2 areas in SF and spent time with my family in Austria for New Year’s. While I plan flights ahead of time due to costs, I don’t book places longer than a month ahead, something that took some time getting used to.</p>
+
+<h2 id="spending-time-in-a-single-city">Spending time in a single city</h2>
+
+<p>While being a different city each month might sound like a dream to many people, I learned it comes with many downsides:</p>
+
+<ul>
+  <li>It’s hard to build up a social circle of close friends</li>
+  <li>It’s hard to really get to know a city, and make use of all the things it has to offer</li>
+  <li>It’s hard to learn more about the culture</li>
+  <li>Cities change with seasons, a summer is usually quite different than a winter</li>
+  <li>It’s stressful changing cities too often</li>
+</ul>
+
+<p>Last year I <a href="https://github.com/krausefx/speaking">spoke at conferences in 9 cities</a>. I knew I wanted to fly less in 2018.</p>
+
+<p>In January 2018, we started the new <a href="https://github.com/fastlane/ci">fastlane.ci project</a>, which requires us to work closer with other Google teams, that are partially based in New York. I used that opportunity to “move” to NYC. So while I move to a different Airbnb every week, I do so within the same city. I grew up in a village with a population of less than 2,000, with not a single traffic light. Living in New York has been an amazing experience, with almost as many people living here, as in the whole country of Austria.</p>
+
+<p>For now, this seems like the perfect balance for me personally: Not getting bored by day to day routine (e.g. same commute) by moving to a new Airbnb every week, but also being able to hang out with the same friends, and get to know the whole city. Long term, I’ll switch to a monthly cycle for even less overhead.</p>
+
+<h2 id="frequently-asked-questions">Frequently asked questions</h2>
+
+<h3 id="how-do-you-handle-physical-mail">How do you handle physical mail?</h3>
+
+<p><strong>Online orders</strong>: I’m lucky that I can use the Google office to order from Amazon, and pick them up at the end of the work day. It’s offered in most major cities, and even allows me to order something for a specific location. For example: When I flew to Amsterdam I ordered an umbrella to the office, ready for me to pick up.</p>
+
+<p><strong>Letters</strong>: I use the <a href="https://www.virtualpostmail.com/">VirtualPostMail</a> service. They scan your letters, and sends them to you via email. If you need the original, you can tell them to forward them to your current address (or office in my case)</p>
+
+<h3 id="money">Money</h3>
+
+<p>My first thought was: Staying in Airbnbs must be more expensive than having my own place! For multiple reasons:</p>
+
+<ul>
+  <li>Short term leases have to charge more to account for the vacant nights</li>
+  <li>Airbnbs are furnished, and include some basic services and utilities</li>
+  <li>Airbnb charges a pretty hefty fee for each booking</li>
+</ul>
+
+<p>Circling back to the number of days I’m <strong>not</strong> at home for about 5 months each year, I realized that I don’t pay my (SF/NYC) rent when:</p>
+
+<ul>
+  <li>I speak at a conference, and the organizers cover the hotel costs</li>
+  <li>I go on vacation</li>
+  <li>I go back home</li>
+  <li>I crash on a friend’s couch / extra bed</li>
+  <li>Google plans a team-offsite in a different location and covers the accommodation</li>
+  <li>I take a <a href="https://en.wikipedia.org/wiki/Red-eye_flight">red eye flight</a> (a flight that leaves at about midnight, and lands in the morning)</li>
+</ul>
+
+<p>Every night I don’t need to pay for my own place, I save about $100 after-tax money (NYC/SF)</p>
+
+<h3 id="do-you-keep-any-physical-memories">Do you keep any physical memories</h3>
+
+<p>You can either ask your parents nicely to keep your things, or you can rent storage somewhere to keep it. I decided to bring my things back home to Austria, by just having an extra bag with me the first time I flew back.</p>
+
+<h3 id="how-did-you-get-rid-of-so-much-stuff">How did you get rid of so much stuff?</h3>
+
+<p>I don’t care about physical things. If I were to lose all my devices, or all my clothes today, I’d buy new ones (probably the same ones). So getting rid of things was rather easy, and I personally never understood why it’s difficult, unless there are certain memories attached.</p>
+
+<p>All I did was: Do I really need this? If the answer wasn’t an immediate yes, it’s a no. If I wanted to keep the “memory”, I made sure to take a picture before giving it away.</p>
+
+<p>I created a spreadsheet with all the things I give away, and shared it with my friends on Facebook, from furniture, to kitchen stuff, to light bulbs, and I got “rid” of everything, as 2 of my friends just moved to a new place, and needed almost everything. The remaining things I donated or threw away if it wasn’t usable any more.</p>
+
+<p>I went from</p>
+
+<p><img src="/assets/posts/nomad/diff.jpg" /></p>
+
+<p>It is tricky though to buy new stuff, since I need to get rid of something else, for every single new item I buy. While my suitcases still have some space left, the weight limit of 22kg of most airlines is what I have to be careful about.</p>
+
+<h3 id="how-do-you-keep-things-organized">How do you keep things organized?</h3>
+
+<p>Those <a href="https://shop.eaglecreek.com/packit-cube-set/d/1322">travel cubes</a> have been pretty useful, I got a lot of them, for shirts, socks, underwear, electronics, etc. and can recommend them to anyone traveling.</p>
+
+<h3 id="did-you-buy-any-travel-gear-for-this">Did you buy any travel gear for this?</h3>
+
+<p><img src="/assets/posts/nomad/ordered.jpg" align="right" style="margin-left: 20px" width="240" /></p>
+
+<p>Yes, there are some really cool things out there, that made my life easier:</p>
+
+<ul>
+  <li><a href="https://www.bose.com/en_us/products/speakers/portable_speakers/soundlink-revolve-plus-bundle.html">Portable Bose SoundLink Revolve+</a></li>
+  <li><a href="https://www.therooststand.com">Roost Stand</a> (MacBook stand for ergonomic working wherever you are in combination with Bluetooth keyboard + trackpad)</li>
+  <li><a href="https://shop.eaglecreek.com/packit-cube-set/d/1322">Travel cubes</a> to keep things organized</li>
+  <li><a href="https://www.amazon.com/gp/product/B00D5FGR2C/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1">Travel scale</a> (I’m into fitness, and started tracking my weight every morning)</li>
+</ul>
+
+<h3 id="is-that-minimalism-life">Is that “Minimalism Life”?</h3>
+
+<p>I’ve read a bit about this topic, including <a href="https://medium.com/@coolasspuppy/200-things-dfa3d5034cd7">a great blog post of my friend about owning 200 things</a>. I love the concept of owning just the things you really need, and forget the rest.</p>
+
+<p>I also watched the <a href="https://www.netflix.com/title/80114460">“Minimalism” documentary on Netflix</a>, which covers some of the concepts. Personally I don’t want to count things, or reduce life in areas I don’t want to. For example, I still carry around a rather high number of shoes with me, just because I like having the right shoes for the right occasion.</p>
+
+<p>I’d argue the goal is to live a normal day-to-day life, when going to work or hanging out with friends, while still being very flexible.</p>
+
+<h3 id="security-concerns">Security concerns</h3>
+
+<p>That’s something I’ve been thinking more about recently: Breaking into an Airbnb is probably super easy, just stay in a place, copy the key and then steal from the next person, with the next person probably blaming the host or cleaning staff. Unfortunately it’s not common for Airbnbs to have a safe.</p>
+
+<ul>
+  <li>I generally don’t own anything of real value, besides my MacBook</li>
+  <li>I don’t leave anything valuable in my Airbnb but put them in the Google office instead</li>
+  <li>All of my documents are stored online</li>
+  <li>Hourly backups on different continents, using hard drives and custom cloud backup solutions, all end to end encrypted, on a total of 5 different locations</li>
+  <li>Even if I were to lose 100% of my things including all my devices, I have a clear recovery path where I can recover my complete online identity, documents and everything else within less than 24 hours. For security reasons I can’t share more about this specific topic, but I can recommend everyone to draw a map of dependencies between the services/software/hardware you use, and how you can recover them step by step.</li>
+</ul>
+
+<h3 id="what-else-is-nice-about-not-having-a-fixed-lease">What else is nice about not having a fixed lease?</h3>
+
+<ul>
+  <li>If you stay at a place for just a week, you’ll never have to clean the apartment</li>
+  <li>You learn how other people live day to day, e.g. how they set up their rooms and get a good idea of what you enjoy</li>
+  <li>You learn more about yourself, like what things are important to you when it comes to having a living space</li>
+  <li>When you own a home, you have to deal with maintenance, repairs and other things quite often. When renting an apartment building, at least some things are being taken care of by the owners. If you stay in Airbnb, there is literally nothing you have to worry about, if something doesn’t work, you notify the host and that’s it.</li>
+</ul>
+
+<p><img src="/assets/posts/nomad/taipei.jpg" /></p>
+
+<p>I wrote this post in Taipei, Taiwan, where I work remotely from the Taipei Google office for 2 weeks before heading to San Francisco.</p>
+
+<p>Being able to escape the cold winter feels amazing 😎</p>
+
+<hr />
+
+<p><strong>Update</strong>: Check out the <a href="/blog/one-year-nomad">One Year Nomad post from 2018</a></p>
+
+
+
+    <p style="margin-top: 30px" class="side-projects-note">
+  <small>Unless otherwise mentioned in the post, those projects are side projects which I work on on weekends and evenings, and are not affiliated with my work or employer.</small>
+</p>
+
+  </div>
+
+  <p class="extra-info">
+    
+      Tags: digital, nomad &nbsp; | &nbsp; 
+    
+    <a href="https://github.com/KrauseFx/krausefx.com/edit/master/_posts/2018-03-24-going-nomad.md" target="_blank" class="forkButton">
+  <svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+ 
+  Edit on GitHub
+</a>
+  </p>
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <li>
+            <a href="https://github.com/KrauseFx" target="_blank"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">KrauseFx</span></a>
+
+          </li>
+          <li>
+            <a href="https://twitter.com/KrauseFx" target="_blank"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">KrauseFx</span></a>
+
+          </li>
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2"></div>
+      <div class="footer-col footer-col-3">
+        <p class="subscribe-newsletter">
+  Want to be the first to hear about more privacy and mobile related essays?
+</p>
+
+<form class="subscribe-form" action="https://krausefx.us10.list-manage.com/subscribe/post?u=a84ca3495977afb89bf2b98fb&amp;id=d9610c8987" method="post" target="popupwindow" onsubmit="window.open('https://krausefx.us10.list-manage.com/subscribe/post?u=a84ca3495977afb89bf2b98fb', 'popupwindow', 'scrollbars=yes,width=600,height=620');return true">
+  <label for="tlemail"></label>
+  <input type="text" placeholder="Email Address" name="EMAIL" id="tlemail">
+  <input type="hidden" value="1" name="embed">
+  <button type="submit" name="subscribe">
+    Subscribe
+  </button>
+</form>
+
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+<script type="text/javascript">
+  var links = document.links;
+  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+    if (links[i].hostname != window.location.hostname) {
+      links[i].target = '_blank';
+    } 
+  }
+</script>
+
+
+  </body>
+
+</html>

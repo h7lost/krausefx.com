@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://krausefx.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://krausefx.com//" rel="alternate" type="text/html" /><updated>2019-01-08T14:48:04+00:00</updated><id>https://krausefx.com//feed.xml</id><title type="html">Felix Krause</title><subtitle>Personal website and blog of Felix Krause</subtitle><entry><title type="html">How I silently changed my profile picture every other year</title><link href="https://krausefx.com//blog/continuous-delivery-for-your-profile-picture" rel="alternate" type="text/html" title="How I silently changed my profile picture every other year" /><published>2018-12-30T00:00:00+00:00</published><updated>2018-12-30T00:00:00+00:00</updated><id>https://krausefx.com//blog/continuous-delivery-for-your-profile-picture</id><content type="html" xml:base="https://krausefx.com//blog/continuous-delivery-for-your-profile-picture">&lt;p&gt;&lt;a href=&quot;https://twitter.com/rrhoover&quot;&gt;Ryan Hoover&lt;/a&gt; hasn’t changed his profile picture for about 10 years now.&lt;/p&gt;
+
+&lt;p&gt;He talks about it on his blog &lt;a href=&quot;https://medium.com/@rrhoover/why-i-never-change-my-profile-pic-72de0daa2785&quot;&gt;“Why I Never Change My Profile Pic”&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;People recognize you by your avatar&lt;/strong&gt;. Once changed, followers need to re-associate the new photo with your person.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I very much agree: whenever someone changes their profile picture, it takes time to get used to it, and start recognizing their avatar in timelines again.&lt;/p&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;That’s exactly what I think too when I come across some weird new avatar because someone changed theirs.&lt;/p&gt;&amp;mdash; Todd Thomas (@toddthomas) &lt;a href=&quot;https://twitter.com/toddthomas/status/968536885415981057?ref_src=twsrc%5Etfw&quot;&gt;February 27, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Back in 2014 I took a photo at the local photo studio &lt;a href=&quot;http://www.die-fotograefin.at/&quot;&gt;Die Fotogräfin&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/profilePictures/FelixKrause2014.jpg&quot; width=&quot;100&quot; alt=&quot;Felix Krause in 2014&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-top: -10px; margin-bottom: 0px&quot;&gt;&lt;small style=&quot;margin-left: 35px;&quot;&gt;2014&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;After a while, I didn’t like the fact that the profile picture isn’t updated at all, but also I wanted to follow Ryan’s advice. The solution?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Let’s take the exact same picture again&lt;/strong&gt;, same t-shirt, same light, same background, and same pose:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/profilePictures/FelixKrause2016.jpg&quot; width=&quot;100&quot; alt=&quot;Felix Krause in 2016&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-top: -10px; margin-bottom: 0px&quot;&gt;&lt;small style=&quot;margin-left: 35px;&quot;&gt;2016&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;I silently changed the profile picture on Twitter and GitHub, and almost no one noticed, with just a few &lt;a href=&quot;https://twitter.com/hemal/status/818872223268294656&quot;&gt;tweets&lt;/a&gt; calling me out.&lt;/p&gt;
+
+&lt;p&gt;It even went that far, that &lt;a href=&quot;https://twitter.com/steipete&quot;&gt;Peter Steinberger&lt;/a&gt; covered my profile picture story in his conference talk about &lt;a href=&quot;https://twitter.com/steipete/status/998454406126424069&quot;&gt;personal branding&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Using this approach, you can keep the recognition value, while making sure your current profile picture reflects on how you currently look like.&lt;/p&gt;
+
+&lt;p&gt;Following the “Continuous Delivery for your profile picture” approach, I took another one this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/profilePictures/FelixKrause2018.jpg&quot; width=&quot;100&quot; alt=&quot;Felix Krause in 2018&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-top: -10px; margin-bottom: 0px&quot;&gt;&lt;small style=&quot;margin-left: 35px;&quot;&gt;2018&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Again, almost no one noticed, with only &lt;a href=&quot;https://twitter.com/lehrjulian/status/1077881037164814336&quot;&gt;one tweet&lt;/a&gt; mentioning it.&lt;/p&gt;
+
+&lt;p&gt;So here are the last 6 years in profile pictures - I plan on continuing this strategy and take a new photo every second year:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/profilePictures/ProfilePictureDiff.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="profile" /><category term="picture" /><category term="personal" /><category term="brand" /><summary type="html">Ryan Hoover hasn’t changed his profile picture for about 10 years now.</summary></entry><entry><title type="html">One year nomad - a review</title><link href="https://krausefx.com//blog/one-year-nomad" rel="alternate" type="text/html" title="One year nomad - a review" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://krausefx.com//blog/one-year-nomad</id><content type="html" xml:base="https://krausefx.com//blog/one-year-nomad">&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I got rid of all my stuff and live off only a suitcase - staying in Airbnbs to explore different areas 🏡🚀 excited to live nomad life &lt;a href=&quot;https://t.co/nWGf7AFKiZ&quot;&gt;pic.twitter.com/nWGf7AFKiZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Felix Krause (@KrauseFx) &lt;a href=&quot;https://twitter.com/KrauseFx/status/928718106876305408?ref_src=twsrc%5Etfw&quot;&gt;November 9, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/going-nomad&quot;&gt;Today one year ago&lt;/a&gt; I decided to get rid of my belongings and live out of a suitcase. It started as an experiment I didn’t expect to be doing for long. However after 365 days without a permanent home, I have no intentions on changing my current setup.&lt;/p&gt;
+
+&lt;p&gt;To summarize the &lt;a href=&quot;/blog/going-nomad&quot;&gt;last year’s thoughts&lt;/a&gt; on why I want to stop having a lease:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Money&lt;/strong&gt;: I only spent about 200 nights at home, making it unused for almost half the year&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Routine&lt;/strong&gt;: I don’t like having a routine when it comes places, subway and commute&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Maintenance&lt;/strong&gt;: I don’t enjoy spending time setting up my apartment &amp;amp; repairing things&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most digital nomads run their own business or are freelancers/consultants. I’m a full-time Google employee working on &lt;a href=&quot;https://fastlane.tools&quot;&gt;fastlane&lt;/a&gt; here in New York City.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://instagram.com/krausefx&quot;&gt;
+  &lt;img src=&quot;/assets/posts/nomad/working-desk1.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-is-the-nomad-life-so-far&quot;&gt;How is the nomad life so far?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I enjoy the flexibility of changing cities and neighborhoods as I want&lt;/li&gt;
+  &lt;li&gt;Living out of a suitcase &amp;amp; carry-on has worked surprisingly well: while I do have to limit the number of items I own, I haven’t had any troubles with it. Getting through the New York winter is a little trickier, so I keep one winter jacket in NYC, and one in Europe&lt;/li&gt;
+  &lt;li&gt;Maintaining fitness progress is trickier, mostly due to the change of kitchen on every move&lt;/li&gt;
+  &lt;li&gt;One time I stayed on a boat in New York 🛥&lt;/li&gt;
+  &lt;li&gt;I got to stay in 8 different New York neighborhoods&lt;/li&gt;
+  &lt;li&gt;I always have clothes for 12 days with me&lt;/li&gt;
+  &lt;li&gt;I never forget stuff as I always have everything with me, there is no such thing as “I didn’t bring X on my trip”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://instagram.com/krausefx&quot;&gt;
+  &lt;img src=&quot;/assets/posts/nomad/from-top.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;money&quot;&gt;Money&lt;/h2&gt;
+
+&lt;p&gt;One of the main motivators of starting my nomad life was to save money. Today I did the math to see if it actually worked.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The last 365 days I:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Spoke at a &lt;a href=&quot;https://github.com/krausefx/speaking&quot;&gt;total of 7 conferences&lt;/a&gt;, in Russia, Austria, USA, Serbia and Norway&lt;/li&gt;
+  &lt;li&gt;Visited the SF Bay Area 3 times for team offsites and WWDC&lt;/li&gt;
+  &lt;li&gt;Stayed with my family in Austria for a total of 2 months&lt;/li&gt;
+  &lt;li&gt;Stayed at “home” in NYC/SF in Airbnbs for a total of &lt;strong&gt;231 nights&lt;/strong&gt; paying a total of &lt;strong&gt;$26,130&lt;/strong&gt; (63% of the nights of the year)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As mentioned in my &lt;a href=&quot;/blog/going-nomad&quot;&gt;previous nomad post&lt;/a&gt;, the average rent in Airbnb can be assumed to be about $3,000 for a studio apartment. Including utilities, furniture and other expenses related to the apartment, you can easily pay a total of about &lt;strong&gt;$40,000&lt;/strong&gt; per year if you want &lt;a href=&quot;https://www.rentcafe.com/average-rent-market-trends/us/ny/manhattan/&quot;&gt;your own apartment in Lower Manhattan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Meaning I saved about &lt;strong&gt;$14,000&lt;/strong&gt; by going nomad, while having far less responsibilities, as well as get to see new places and neighborhoods each month.&lt;/p&gt;
+
+&lt;h2 id=&quot;airbnbs&quot;&gt;Airbnbs&lt;/h2&gt;
+
+&lt;p&gt;Most of the times I lived in Airbnbs in NYC, my experience with it has been pretty good so far. The check-in usually works by picking up the key from a KeyCafe in a nearby Deli. This part is quite tricky, as I have to enter the Deli with all my stuff, and then climb the stairs as most older buildings in NYC don’t have an elevator.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/nomad/airbnb-history.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My friends working at Airbnb are happy about the fees I pay on each booking :)&lt;/p&gt;
+
+&lt;p&gt;One thing that has proven extremely useful is using the best travel credit card you can get: By receiving 4.5% cash-back for each travel-related purchase, I get over &lt;strong&gt;$1,000 for free&lt;/strong&gt; every year by living in Airbnbs and using my credit card.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;
+  &lt;img src=&quot;/assets/posts/nomad/boat.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;For a few nights I stayed on a boat in New York through Airbnb, costing the same as all my other Airbnbs per night (note: it’s the small one in front).&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;
+  &lt;img src=&quot;/assets/posts/nomad/working-desk2.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;One highlight was a 2 weeks trip to Taipei together with &lt;a href=&quot;https://twitter.com/taquitos&quot;&gt;@taquitos&lt;/a&gt; to work together, instead of meeting in San Francisco or New York.&lt;/p&gt;
+
+&lt;h2 id=&quot;conferences&quot;&gt;Conferences&lt;/h2&gt;
+
+&lt;p&gt;When being invited to speak at conferences, the conference organizers cover the hotel during your stay. Every night they cover saves me about $100 (assuming the SF/NYC rent prices), as I don’t have to pay my lease during that time. I usually combine multiple conferences on one multi-week trip and cover the hotel nights in-between instead of flying back and forth.&lt;/p&gt;
+
+&lt;h2 id=&quot;friends--happiness&quot;&gt;Friends &amp;amp; Happiness&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://instagram.com/krausefx&quot; target=&quot;_blank&quot;&gt;
+  &lt;img src=&quot;/assets/posts/nomad/friends.jpg&quot; align=&quot;right&quot; width=&quot;310&quot; style=&quot;margin-left: 20px;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is something I talked about in the &lt;a href=&quot;/blog/going-nomad&quot;&gt;original nomad blog post&lt;/a&gt;: If you travel to a new city every other week, it’s going to be really difficult to build up close relationships with friends. That’s why I’ve been a big fan of the current setup: I stay in the same city, but move within it, meaning I get to hang out with the same group of people and spend quality time with them, while still having the benefits of a nomad life.&lt;/p&gt;
+
+&lt;p&gt;Since February 2018 I’m tracking my mood &amp;amp; happiness level 3 times a day, here is the result so far:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/nomad/mood.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3 times a day I answer the question on how I’m feeling on a scale from 0 to 6 using my &lt;a href=&quot;https://github.com/KrauseFx/mood&quot;&gt;open source Telegram bot&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If today were the last day of my life, would I want to do what I am about to do today?” And whenever the answer has been “No” for too many days in a row, I know I need to change something.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As everything in life, things are an up and down. The overall trend is visible as the green line, which is clearly a wave going in cycles. I marked the &lt;code class=&quot;highlighter-rouge&quot;&gt;I'm feeling average&lt;/code&gt; level as orange. Ideally I don’t want any of the other colored lines to go below it. One-off values below it are common as seen as the light gray dots. Looking at the graph, every time the blue line dropped below the orange one, something happened that affected my overall mood. It’s good to see the line usually recovering back to normal rather fast.&lt;/p&gt;
+
+&lt;h2 id=&quot;fitness&quot;&gt;Fitness&lt;/h2&gt;
+
+&lt;p&gt;I’ve been spending a lot of time working on reaching my fitness goals in the year of 2018, and it has worked surprisingly well:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The last years I did mostly power lifting, so I also gained a good amount of fat. As of February 2018 I wanted to work on appearance and wanted to focus on a clean diet as well as a different workout&lt;/li&gt;
+  &lt;li&gt;I lost 25lbs (11 kg) within 6 months while keeping a good amount of muscle mass&lt;/li&gt;
+  &lt;li&gt;I stopped cooking at home, as finding things at a new kitchen and setting everything up doesn’t work if you’re only staying for a week or two. Instead, 100% of my meals were from the Google office and eating out. This makes following a strict nutrition plan a lot more difficult, as I can’t track the exact macros, and don’t have control over the fat that’s used&lt;/li&gt;
+  &lt;li&gt;I managed to drop my body fat percentage by 6%, to a total of 8.9% according to the &lt;a href=&quot;https://www.nhs.uk/conditions/dexa-scan/&quot;&gt;DEXA scan&lt;/a&gt; (the only decent-precise way to measure body fat)&lt;/li&gt;
+  &lt;li&gt;I travel my own &lt;a href=&quot;https://www.amazon.com/gp/product/B00D5FGR2C/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;travel scale&lt;/a&gt; to track my body weight every morning&lt;/li&gt;
+  &lt;li&gt;I track everything I eat in MyFitnessPal. Tracking food is a game changer, no matter how well you think you eat, MyFitnessPal will most likely tell you otherwise if you haven’t tracked macros in the past (very thankful my fitness trainer &lt;a href=&quot;https://instagram.com/faronsalisbury&quot;&gt;@faronsalisbury&lt;/a&gt; convinced me to do this)&lt;/li&gt;
+  &lt;li&gt;I usually stock up the fridge with a few essentials, being frozen chicken breast, frozen veggies, black beans, oatmeal and some diet sodas.&lt;/li&gt;
+  &lt;li&gt;Having a routine, and your own place with your own kitchen would make reaching fitness goals easier&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;whereisfelixtoday&quot;&gt;whereisfelix.today&lt;/h2&gt;
+
+&lt;p&gt;A joke project I started back in February 2018: &lt;a href=&quot;https://whereisfelix.today&quot;&gt;whereisfelix.today&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As people in SF/NYC travel around a lot, it’s often difficult to schedule time to meet. Most conversations start with “Hey, when are you back in New York?”. I decided to buy this domain for fun, and have my travel schedule up there.&lt;/p&gt;
+
+&lt;p&gt;The reactions from people when I send them this link are great. I now even have a shortcut on my Mac to type the domain for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://whereisfelix.today&quot;&gt;
+  &lt;img src=&quot;/assets/posts/nomad/whereisfelix1.png&quot; width=&quot;400px&quot; style=&quot;margin-right: -20px; margin-left: -20px;&quot; /&gt;
+  &lt;img src=&quot;/assets/posts/nomad/whereisfelix2.png&quot; width=&quot;400px&quot; style=&quot;margin-right: -40px; margin-left: -20px;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a real-time dashboard of which city I’m currently in, as well as my upcoming travel schedule. Over the last few months I added more and more information to it, including my current mood (which I track with my &lt;a href=&quot;https://github.com/krausefx/mood&quot;&gt;open source Telegram bot&lt;/a&gt;), the macros I ate today, current time, weight and most recent Instagram pictures.&lt;/p&gt;
+
+&lt;p&gt;I used this project as an excuse to learn some things I haven’t used yet: TypeScript, node.js, Angular, and immutable deployments on &lt;a href=&quot;https://zeit.co&quot;&gt;Zeit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The website itself is also &lt;a href=&quot;https://github.com/krausefx/whereisfelix.today&quot;&gt;open source on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;downsides&quot;&gt;Downsides&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turns out, government entities and banks are not so familiar with the concept of digital nomads and are not happy when you tell them you don’t have a home address, nor a utility bill or lease agreement. I’m happy I opened all my financial accounts before this change, as it for sure makes things a little more complicated.&lt;/li&gt;
+  &lt;li&gt;Moving around is exhausting, even if you only carry your suitcase + bag. It still takes about 3 hours to move to a new place.&lt;/li&gt;
+  &lt;li&gt;Everything around fitness, from tracking, cooking to buying food in bulk, to meal-prepping would be a lot easier if I wasn’t a nomad&lt;/li&gt;
+  &lt;li&gt;Media: I don’t watch a lot of TV, nor play a lot of games, but when I do, it’s annoying to get things up and running. Setting things up takes time, and is usually not worth it. I end up watching Netflix just on my phone, and the only console I have is the Nintendo Switch, as I can play without a TV. The same goes for the sound system: I ended up buying my own &lt;a href=&quot;https://smile.amazon.com/Bose-SoundLink-Portable-Long-Lasting-Bluetooth/dp/B06XCW4VFS/ref=sr_1_17?s=electronics&amp;amp;ie=UTF8&amp;amp;qid=1541758490&amp;amp;sr=1-17&quot;&gt;portable speaker&lt;/a&gt; I bring with me so I don’t have to deal with learning how each apartment’s sound system works.&lt;/li&gt;
+  &lt;li&gt;It takes a lot of time finding good Airbnbs, lots of hosts don’t respond and you have to plan ahead&lt;/li&gt;
+  &lt;li&gt;I miss having a proper working setup outside the office: Having an external monitor and a standing desk is something I really learned to appreciate. As shown in the pictures in this post, I carry around a &lt;a href=&quot;https://www.therooststand.com/&quot;&gt;mobile MacBook stand&lt;/a&gt;, as well as Apple keyboard, trackpad and mouse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/nomad/suitcases2.jpg&quot; align=&quot;right&quot; width=&quot;300&quot; style=&quot;margin-left: 20px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Living out of a suitcase comes with its challenges. You learn a lot about yourself, what you need, what you appreciate and how to optimize your life around not owning a lot.&lt;/p&gt;
+
+&lt;p&gt;I really appreciate the chance to re-invent your daily schedule every time you move. You learn a lot about different kinds of apartments and what you make use of most often.&lt;/p&gt;
+
+&lt;p&gt;Staying in one city, and moving within it has proven very efficient when it comes to being productive, getting to know new people as well as staying close with your friends.&lt;/p&gt;
+
+&lt;p&gt;It is possible to reach your fitness goals without a fixed routine, and without cooking, however it does make things a little more challenging. Having a gym membership with a chain that has multiple locations in your city is key 🔑.&lt;/p&gt;
+
+&lt;p&gt;I’m really happy I made the switch, it has been a great journey so far.&lt;/p&gt;</content><author><name></name></author><category term="digital" /><category term="nomad" /><summary type="html">I got rid of all my stuff and live off only a suitcase - staying in Airbnbs to explore different areas 🏡🚀 excited to live nomad life pic.twitter.com/nWGf7AFKiZ&amp;mdash; Felix Krause (@KrauseFx) November 9, 2017</summary></entry><entry><title type="html">iOS-factor: A methodology for building high-quality iOS apps</title><link href="https://krausefx.com//blog/ios-factor" rel="alternate" type="text/html" title="iOS-factor: A methodology for building high-quality iOS apps" /><published>2018-07-07T00:00:00+00:00</published><updated>2018-07-07T00:00:00+00:00</updated><id>https://krausefx.com//blog/ios-factor</id><content type="html" xml:base="https://krausefx.com//blog/ios-factor">&lt;p&gt;&lt;a href=&quot;https://ios-factor.com&quot;&gt;iOS-factor&lt;/a&gt; was inspired by the famous &lt;a href=&quot;https://www.12factor.net/&quot;&gt;twelve-factor app framework&lt;/a&gt;, a methodology to write high-quality web services. &lt;a href=&quot;https://ios-factor.com&quot;&gt;iOS-factor&lt;/a&gt; uses the same structure and similar principles, re-written and applied to the iOS app development processes.&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Over the past 10 years, the iOS development process has shifted drastically:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;from supporting a single device to a wide range of available iOS-powered iPhones and iPads and various platforms like tvOS and watchOS&lt;/li&gt;
+  &lt;li&gt;from manually including git submodules to using dependency managers&lt;/li&gt;
+  &lt;li&gt;from iOS apps mostly running locally on-device, to iOS apps heavily relying on backend services&lt;/li&gt;
+  &lt;li&gt;from iOS app review times of more than 2 weeks to less than a day&lt;/li&gt;
+  &lt;li&gt;from installing an app on your phone using iTunes to distributing apps through the official TestFlight channel&lt;/li&gt;
+  &lt;li&gt;from uploading 5 screenshots per language to iTunes Connect to 110 per language, as well as app previews&lt;/li&gt;
+  &lt;li&gt;from plain Objective-C/C++ apps to a mix of languages including JavaScript&lt;/li&gt;
+  &lt;li&gt;from slow releases whenever something is ready, to shipping every single week&lt;/li&gt;
+  &lt;li&gt;from full releases to A/B testing, slow rollouts and automatic regression detection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;whats-ios-factor&quot;&gt;What’s &lt;a href=&quot;https://ios-factor.com&quot;&gt;iOS-factor&lt;/a&gt;?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ios-factor.com&quot;&gt;iOS-factor&lt;/a&gt; is a project I started in May 2018. It aims to provide a collection of best practices for building high-end iOS applications. Each topic is covered by a &lt;code class=&quot;highlighter-rouge&quot;&gt;factor&lt;/code&gt;, which describes an ideal state of how a certain category of the iOS app development process could look like.&lt;/p&gt;
+
+&lt;p&gt;Due to certain limitations (like Xcode running only on macOS) not all requirements can be fulfilled. This project aims to define goals, as well as the best current approaches to solve some of the challenges we’re facing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ios-factor.com&quot;&gt;iOS-factor&lt;/a&gt; is all about the bigger-picture iOS app development processes and architecture decisions and will not cover any language specific challenges.&lt;/p&gt;
+
+&lt;p&gt;This is a living project, maintained by the iOS development community. You can find the full source on &lt;a href=&quot;https://github.com/iOS-factor/iOS-factor.com&quot;&gt;GitHub&lt;/a&gt; and update existing pages or add new factors.&lt;/p&gt;
+
+&lt;h3 style=&quot;text-align: center; font-size: 140%&quot;&gt;&lt;a href=&quot;https://ios-factor.com&quot;&gt;Open iOS-factor.com&lt;/a&gt;&lt;/h3&gt;</content><author><name></name></author><category term="ios" /><summary type="html">iOS-factor was inspired by the famous twelve-factor app framework, a methodology to write high-quality web services. iOS-factor uses the same structure and similar principles, re-written and applied to the iOS app development processes.</summary></entry><entry><title type="html">iOS apps should be inside a network sandbox</title><link href="https://krausefx.com//blog/ios-app-network-sandboxing" rel="alternate" type="text/html" title="iOS apps should be inside a network sandbox" /><published>2018-05-23T00:00:00+00:00</published><updated>2018-05-23T00:00:00+00:00</updated><id>https://krausefx.com//blog/ios-app-network-sandboxing</id><content type="html" xml:base="https://krausefx.com//blog/ios-app-network-sandboxing">&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;With my recent publications, most importantly “&lt;a href=&quot;https://krausefx.com/blog/trusting-sdks&quot;&gt;Trusting SDKs&lt;/a&gt;” it became clear that hijacked or malicious iOS apps cause major security and privacy risks for users, and allow attackers to reach a high number of users through a single point of failure.&lt;/p&gt;
+
+&lt;p&gt;Most of the times, the consequences of those attacks are about data:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Usernames and passwords&lt;/li&gt;
+  &lt;li&gt;Location data&lt;/li&gt;
+  &lt;li&gt;Facial data&lt;/li&gt;
+  &lt;li&gt;Advertising data&lt;/li&gt;
+  &lt;li&gt;Address book entries&lt;/li&gt;
+  &lt;li&gt;Payment information (e.g. credit cards)&lt;/li&gt;
+  &lt;li&gt;Other personal information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notice how sandboxes in software are designed to keep data inside that box (in the form of a filesystem), but for some reason they stop when it comes to network requests.&lt;/p&gt;
+
+&lt;p&gt;If an attacker manages to hijack an iOS app, the first thing they would do is sent the collected data to some server in their control.&lt;/p&gt;
+
+&lt;h2 id=&quot;idea&quot;&gt;Idea&lt;/h2&gt;
+
+&lt;p&gt;Initially just &lt;a href=&quot;https://twitter.com/KrauseFx/status/962116690233339904&quot;&gt;tweeting my shower thoughts&lt;/a&gt; and reaching 300 likes &amp;amp; 50 RTs, this idea grew more and more:&lt;/p&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Apple should require every iOS app to define a list of web hosts that should be accessible, all other web requests will fail:&lt;br /&gt;&lt;br /&gt;- If an app gets compromised no data can leak&lt;br /&gt;- It forces the use of SFSafariViewController&lt;br /&gt;- Users should be able to see the host list&lt;/p&gt;&amp;mdash; Felix Krause (@KrauseFx) &lt;a href=&quot;https://twitter.com/KrauseFx/status/962116690233339904?ref_src=twsrc%5Etfw&quot;&gt;February 10, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;app-transport-security&quot;&gt;App Transport Security&lt;/h3&gt;
+
+&lt;p&gt;At &lt;a href=&quot;https://techcrunch.com/2016/06/14/apple-will-require-https-connections-for-ios-apps-by-the-end-of-2016/&quot;&gt;WWDC 2016 Apple announced ATS&lt;/a&gt;, an iOS 9 feature to enforce the use of HTTPs across all iOS apps. It was said to be made mandatory by end of 2016, however the deadline was moved to an undefined date. The idea makes perfect sense: All the infrastructure and tools around HTTPs encryption people already have with their web browsers to verify the security on websites, don’t work on the iOS platform. If you use your banking or dating app, how can you as a user be sure the company didn’t mess things up? &lt;a href=&quot;https://techcrunch.com/2018/04/02/grindr-sends-hiv-status-to-third-parties-and-some-personal-data-unencrypted/&quot;&gt;It’s not like it happened before&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;web-vs-ios&quot;&gt;Web vs iOS&lt;/h3&gt;
+
+&lt;p&gt;On the web, &lt;a href=&quot;https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn&quot;&gt;browsers started marking HTTP websites as “Not Secure”&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security&quot;&gt;HSTS is built into browsers to force HTTPs for certain hosts&lt;/a&gt;, &lt;a href=&quot;https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en&quot;&gt;people use HTTPSEverywhere to enforce HTTPs connection across more hosts&lt;/a&gt; and &lt;a href=&quot;https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en&quot;&gt;people use uBlock to block certain tracking and ad widgets that slow down websites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On iOS, you install and use an app, and hope that the app developer uses proper encryption, securely stores your personal information, and doesn’t use any sketchy SDKs that you wouldn’t trust yourself. If you don’t agree with something (e.g. an Analytics SDK), there is nothing you can do about it.&lt;/p&gt;
+
+&lt;h2 id=&quot;proposal&quot;&gt;Proposal&lt;/h2&gt;
+
+&lt;h3 id=&quot;step-1&quot;&gt;Step 1:&lt;/h3&gt;
+
+&lt;p&gt;Finish the ATS plans. It’s been 2 years now, enough time for app developers to update their apps. Allow developers to file for an exception, and mark them accordingly on the App Store page with a badge of shame (similar to how &lt;a href=&quot;https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn&quot;&gt;Chrome marks all non HTTPs websites&lt;/a&gt; nowadays)&lt;/p&gt;
+
+&lt;h3 id=&quot;step-2&quot;&gt;Step 2:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/sandboxing.png&quot; width=&quot;250&quot; align=&quot;right&quot; style=&quot;margin: 15px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Introduce the concept of network sandboxes. Each app should define a list of hostnames they are allowed to access.&lt;/p&gt;
+
+&lt;p&gt;Imagine a ride-sharing app having access to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;my-ride-sharing-app.com&lt;/li&gt;
+  &lt;li&gt;stripe.com&lt;/li&gt;
+  &lt;li&gt;google-analytics.com&lt;/li&gt;
+  &lt;li&gt;maps.google.com&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This list serves multiple purposes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The app can only access those hosts. Meaning if an SDK is malicious or your app got hijacked in some way, they can’t access the scary internet and leak the user’s data.&lt;/li&gt;
+  &lt;li&gt;The app review team will see a list as they approve the app. At the same time, they can see a diff of the hosts between app releases&lt;/li&gt;
+  &lt;li&gt;The user should have a way to see that list as part of the App Store page&lt;/li&gt;
+  &lt;li&gt;In the future we could even put the user in control by distinguishing between primary hosts (e.g. twitter.com) that are needed to have the app running, and secondary hosts (e.g. random-analytics-service.com). This however would come with many implications when it comes to revenue models of the majority of mobile apps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As always, exceptions should be possible, third party browsers should exist, and some apps might have to support so many hosts that they can’t follow those rules. And that’s okay, those apps will be marked as “Can access any host” as a little warning in the App Store.&lt;/p&gt;
+
+&lt;p&gt;While the above doesn’t solve all the problems, it is a good first step into the right direction. We’ll run into problems, and we’ll solve them. It’s a necessary change for the mobile ecosystem, catching up with where we’re already at with web browsers nowadays.&lt;/p&gt;</content><author><name></name></author><category term="privacy" /><category term="security" /><summary type="html">Background</summary></entry><entry><title type="html">Going nomad</title><link href="https://krausefx.com//blog/going-nomad" rel="alternate" type="text/html" title="Going nomad" /><published>2018-03-24T00:00:00+00:00</published><updated>2018-03-24T00:00:00+00:00</updated><id>https://krausefx.com//blog/going-nomad</id><content type="html" xml:base="https://krausefx.com//blog/going-nomad">&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I got rid of all my stuff and live off only a suitcase - staying in Airbnbs to explore different areas 🏡🚀 excited to live nomad life &lt;a href=&quot;https://t.co/nWGf7AFKiZ&quot;&gt;pic.twitter.com/nWGf7AFKiZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Felix Krause (@KrauseFx) &lt;a href=&quot;https://twitter.com/KrauseFx/status/928718106876305408?ref_src=twsrc%5Etfw&quot;&gt;November 9, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Check out the &lt;a href=&quot;/blog/one-year-nomad&quot;&gt;One Year Nomad post from 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;I moved to San Francisco summer 2015 to join Twitter. I lived in a furnished apartment for my first year, which I really enjoyed, as I didn’t have to buy all the essentials myself after moving across the globe into a new country.&lt;/p&gt;
+
+&lt;p&gt;After my 1 year lease, I decided to do what “grown-ups” are supposed to do: get their own apartment, buy furniture, decorate the place, and make it your home. After living in my little studio for about 1.5 years, I noticed a few things:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In 2017 I only spent about 200 nights in my apartment, causing me to still pay about 5 months worth of San Francisco rent without actually living there (the average monthly lease for a studio apartment is about $3,000 + utilities, resulting in about $15,000 of my after tax money being lost)&lt;/li&gt;
+  &lt;li&gt;While I enjoy having my own space, I never invested enough time and effort into making it nice: Until the day I moved out after 18 months, I still didn’t have enough closets for all my things and I had my clothes piled up in some corner&lt;/li&gt;
+  &lt;li&gt;I didn’t like being bound to one location in the city. In particular, in the common case of getting acquired by another company (#justSFthings), your commute changes, and you can’t just move around&lt;/li&gt;
+  &lt;li&gt;I didn’t like the fact that I was always surrounded by the same places and things became routine. Same subway station, same spots you walk by every day, same views, same commute, etc. after a month it gets boring and I need a change.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/nomad/SF-Map.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-idea&quot;&gt;The idea&lt;/h2&gt;
+
+&lt;p&gt;Ever since I first started reading &lt;a href=&quot;https://levels.io/&quot;&gt;@levelsio’s blog&lt;/a&gt; in 2014, about living out of &lt;a href=&quot;https://levels.io/carry-on-world-travel/&quot;&gt;just a backpack&lt;/a&gt;, and &lt;a href=&quot;https://levels.io/remote-working-is-the-future/&quot;&gt;traveling across the world, while working on his own startups&lt;/a&gt;, I was fascinated by the idea. However I always assumed it doesn’t work if you have a full-time job at a large company like Twitter or Google.&lt;/p&gt;
+
+&lt;p&gt;2014 was also the time I met &lt;a href=&quot;https://twitter.com/orta&quot;&gt;@orta&lt;/a&gt;, who told me about his first year in New York City, where he lived in a different neighborhood in a random Airbnb each month. This allowed him to see what NYC has to offer, and what area he liked the most. I loved the idea, and kind of knew I want to do this at some point in life.&lt;/p&gt;
+
+&lt;p&gt;Only in October 2017 I realized that combining those two things might actually just work.&lt;/p&gt;
+
+&lt;h2 id=&quot;making-the-move&quot;&gt;Making the move&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/nomad/suitcases.jpg&quot; width=&quot;240&quot; align=&quot;right&quot; style=&quot;margin-left: 20px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After living in San Francisco for 2.5 years, I wanted a change. With my lease ending in October, I decided to reduce my life to just&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 suitcase&lt;/li&gt;
+  &lt;li&gt;1 carry-on luggage&lt;/li&gt;
+  &lt;li&gt;1 backpack&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and lived in an Airbnb in San Francisco until the winter holidays, for which I went back home to Austria. I got really lucky with my SF Airbnb, as I got it from &lt;a href=&quot;https://zeusliving.com/&quot;&gt;Zeus Living&lt;/a&gt; a company that rents out apartments for people like me: rent a place per month, all utilities included, and enough space with a desk to get work done.&lt;/p&gt;
+
+&lt;p&gt;For the last 6 months I’ve lived the nomad life, with just the things listed above. So far I’ve stayed in 6 different neighborhoods in NYC, 2 areas in SF and spent time with my family in Austria for New Year’s. While I plan flights ahead of time due to costs, I don’t book places longer than a month ahead, something that took some time getting used to.&lt;/p&gt;
+
+&lt;h2 id=&quot;spending-time-in-a-single-city&quot;&gt;Spending time in a single city&lt;/h2&gt;
+
+&lt;p&gt;While being a different city each month might sound like a dream to many people, I learned it comes with many downsides:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It’s hard to build up a social circle of close friends&lt;/li&gt;
+  &lt;li&gt;It’s hard to really get to know a city, and make use of all the things it has to offer&lt;/li&gt;
+  &lt;li&gt;It’s hard to learn more about the culture&lt;/li&gt;
+  &lt;li&gt;Cities change with seasons, a summer is usually quite different than a winter&lt;/li&gt;
+  &lt;li&gt;It’s stressful changing cities too often&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Last year I &lt;a href=&quot;https://github.com/krausefx/speaking&quot;&gt;spoke at conferences in 9 cities&lt;/a&gt;. I knew I wanted to fly less in 2018.&lt;/p&gt;
+
+&lt;p&gt;In January 2018, we started the new &lt;a href=&quot;https://github.com/fastlane/ci&quot;&gt;fastlane.ci project&lt;/a&gt;, which requires us to work closer with other Google teams, that are partially based in New York. I used that opportunity to “move” to NYC. So while I move to a different Airbnb every week, I do so within the same city. I grew up in a village with a population of less than 2,000, with not a single traffic light. Living in New York has been an amazing experience, with almost as many people living here, as in the whole country of Austria.&lt;/p&gt;
+
+&lt;p&gt;For now, this seems like the perfect balance for me personally: Not getting bored by day to day routine (e.g. same commute) by moving to a new Airbnb every week, but also being able to hang out with the same friends, and get to know the whole city. Long term, I’ll switch to a monthly cycle for even less overhead.&lt;/p&gt;
+
+&lt;h2 id=&quot;frequently-asked-questions&quot;&gt;Frequently asked questions&lt;/h2&gt;
+
+&lt;h3 id=&quot;how-do-you-handle-physical-mail&quot;&gt;How do you handle physical mail?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Online orders&lt;/strong&gt;: I’m lucky that I can use the Google office to order from Amazon, and pick them up at the end of the work day. It’s offered in most major cities, and even allows me to order something for a specific location. For example: When I flew to Amsterdam I ordered an umbrella to the office, ready for me to pick up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Letters&lt;/strong&gt;: I use the &lt;a href=&quot;https://www.virtualpostmail.com/&quot;&gt;VirtualPostMail&lt;/a&gt; service. They scan your letters, and sends them to you via email. If you need the original, you can tell them to forward them to your current address (or office in my case)&lt;/p&gt;
+
+&lt;h3 id=&quot;money&quot;&gt;Money&lt;/h3&gt;
+
+&lt;p&gt;My first thought was: Staying in Airbnbs must be more expensive than having my own place! For multiple reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Short term leases have to charge more to account for the vacant nights&lt;/li&gt;
+  &lt;li&gt;Airbnbs are furnished, and include some basic services and utilities&lt;/li&gt;
+  &lt;li&gt;Airbnb charges a pretty hefty fee for each booking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Circling back to the number of days I’m &lt;strong&gt;not&lt;/strong&gt; at home for about 5 months each year, I realized that I don’t pay my (SF/NYC) rent when:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I speak at a conference, and the organizers cover the hotel costs&lt;/li&gt;
+  &lt;li&gt;I go on vacation&lt;/li&gt;
+  &lt;li&gt;I go back home&lt;/li&gt;
+  &lt;li&gt;I crash on a friend’s couch / extra bed&lt;/li&gt;
+  &lt;li&gt;Google plans a team-offsite in a different location and covers the accommodation&lt;/li&gt;
+  &lt;li&gt;I take a &lt;a href=&quot;https://en.wikipedia.org/wiki/Red-eye_flight&quot;&gt;red eye flight&lt;/a&gt; (a flight that leaves at about midnight, and lands in the morning)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Every night I don’t need to pay for my own place, I save about $100 after-tax money (NYC/SF)&lt;/p&gt;
+
+&lt;h3 id=&quot;do-you-keep-any-physical-memories&quot;&gt;Do you keep any physical memories&lt;/h3&gt;
+
+&lt;p&gt;You can either ask your parents nicely to keep your things, or you can rent storage somewhere to keep it. I decided to bring my things back home to Austria, by just having an extra bag with me the first time I flew back.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-did-you-get-rid-of-so-much-stuff&quot;&gt;How did you get rid of so much stuff?&lt;/h3&gt;
+
+&lt;p&gt;I don’t care about physical things. If I were to lose all my devices, or all my clothes today, I’d buy new ones (probably the same ones). So getting rid of things was rather easy, and I personally never understood why it’s difficult, unless there are certain memories attached.&lt;/p&gt;
+
+&lt;p&gt;All I did was: Do I really need this? If the answer wasn’t an immediate yes, it’s a no. If I wanted to keep the “memory”, I made sure to take a picture before giving it away.&lt;/p&gt;
+
+&lt;p&gt;I created a spreadsheet with all the things I give away, and shared it with my friends on Facebook, from furniture, to kitchen stuff, to light bulbs, and I got “rid” of everything, as 2 of my friends just moved to a new place, and needed almost everything. The remaining things I donated or threw away if it wasn’t usable any more.&lt;/p&gt;
+
+&lt;p&gt;I went from&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/nomad/diff.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is tricky though to buy new stuff, since I need to get rid of something else, for every single new item I buy. While my suitcases still have some space left, the weight limit of 22kg of most airlines is what I have to be careful about.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-you-keep-things-organized&quot;&gt;How do you keep things organized?&lt;/h3&gt;
+
+&lt;p&gt;Those &lt;a href=&quot;https://shop.eaglecreek.com/packit-cube-set/d/1322&quot;&gt;travel cubes&lt;/a&gt; have been pretty useful, I got a lot of them, for shirts, socks, underwear, electronics, etc. and can recommend them to anyone traveling.&lt;/p&gt;
+
+&lt;h3 id=&quot;did-you-buy-any-travel-gear-for-this&quot;&gt;Did you buy any travel gear for this?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/nomad/ordered.jpg&quot; align=&quot;right&quot; style=&quot;margin-left: 20px&quot; width=&quot;240&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, there are some really cool things out there, that made my life easier:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bose.com/en_us/products/speakers/portable_speakers/soundlink-revolve-plus-bundle.html&quot;&gt;Portable Bose SoundLink Revolve+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.therooststand.com&quot;&gt;Roost Stand&lt;/a&gt; (MacBook stand for ergonomic working wherever you are in combination with Bluetooth keyboard + trackpad)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shop.eaglecreek.com/packit-cube-set/d/1322&quot;&gt;Travel cubes&lt;/a&gt; to keep things organized&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B00D5FGR2C/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;Travel scale&lt;/a&gt; (I’m into fitness, and started tracking my weight every morning)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;is-that-minimalism-life&quot;&gt;Is that “Minimalism Life”?&lt;/h3&gt;
+
+&lt;p&gt;I’ve read a bit about this topic, including &lt;a href=&quot;https://medium.com/@coolasspuppy/200-things-dfa3d5034cd7&quot;&gt;a great blog post of my friend about owning 200 things&lt;/a&gt;. I love the concept of owning just the things you really need, and forget the rest.&lt;/p&gt;
+
+&lt;p&gt;I also watched the &lt;a href=&quot;https://www.netflix.com/title/80114460&quot;&gt;“Minimalism” documentary on Netflix&lt;/a&gt;, which covers some of the concepts. Personally I don’t want to count things, or reduce life in areas I don’t want to. For example, I still carry around a rather high number of shoes with me, just because I like having the right shoes for the right occasion.&lt;/p&gt;
+
+&lt;p&gt;I’d argue the goal is to live a normal day-to-day life, when going to work or hanging out with friends, while still being very flexible.&lt;/p&gt;
+
+&lt;h3 id=&quot;security-concerns&quot;&gt;Security concerns&lt;/h3&gt;
+
+&lt;p&gt;That’s something I’ve been thinking more about recently: Breaking into an Airbnb is probably super easy, just stay in a place, copy the key and then steal from the next person, with the next person probably blaming the host or cleaning staff. Unfortunately it’s not common for Airbnbs to have a safe.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I generally don’t own anything of real value, besides my MacBook&lt;/li&gt;
+  &lt;li&gt;I don’t leave anything valuable in my Airbnb but put them in the Google office instead&lt;/li&gt;
+  &lt;li&gt;All of my documents are stored online&lt;/li&gt;
+  &lt;li&gt;Hourly backups on different continents, using hard drives and custom cloud backup solutions, all end to end encrypted, on a total of 5 different locations&lt;/li&gt;
+  &lt;li&gt;Even if I were to lose 100% of my things including all my devices, I have a clear recovery path where I can recover my complete online identity, documents and everything else within less than 24 hours. For security reasons I can’t share more about this specific topic, but I can recommend everyone to draw a map of dependencies between the services/software/hardware you use, and how you can recover them step by step.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-else-is-nice-about-not-having-a-fixed-lease&quot;&gt;What else is nice about not having a fixed lease?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you stay at a place for just a week, you’ll never have to clean the apartment&lt;/li&gt;
+  &lt;li&gt;You learn how other people live day to day, e.g. how they set up their rooms and get a good idea of what you enjoy&lt;/li&gt;
+  &lt;li&gt;You learn more about yourself, like what things are important to you when it comes to having a living space&lt;/li&gt;
+  &lt;li&gt;When you own a home, you have to deal with maintenance, repairs and other things quite often. When renting an apartment building, at least some things are being taken care of by the owners. If you stay in Airbnb, there is literally nothing you have to worry about, if something doesn’t work, you notify the host and that’s it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/nomad/taipei.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I wrote this post in Taipei, Taiwan, where I work remotely from the Taipei Google office for 2 weeks before heading to San Francisco.&lt;/p&gt;
+
+&lt;p&gt;Being able to escape the cold winter feels amazing 😎&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Check out the &lt;a href=&quot;/blog/one-year-nomad&quot;&gt;One Year Nomad post from 2018&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="digital" /><category term="nomad" /><summary type="html">I got rid of all my stuff and live off only a suitcase - staying in Airbnbs to explore different areas 🏡🚀 excited to live nomad life pic.twitter.com/nWGf7AFKiZ&amp;mdash; Felix Krause (@KrauseFx) November 9, 2017</summary></entry><entry><title type="html">How I use Twitter</title><link href="https://krausefx.com//blog/how-i-use-twitter" rel="alternate" type="text/html" title="How I use Twitter" /><published>2018-03-06T00:00:00+00:00</published><updated>2018-03-06T00:00:00+00:00</updated><id>https://krausefx.com//blog/how-i-use-twitter</id><content type="html" xml:base="https://krausefx.com//blog/how-i-use-twitter">&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;For most people, using the official Twitter client works fine. It’s optimized to show you new content you might be interested in, makes it easy to follow new users, and shows content that might be most relevant to you first. If you have an engineering mindset, chances are you want to be in control of what you see in your timeline.&lt;/p&gt;
+
+&lt;p&gt;I use Twitter to stay up to date with certain people. I want to hear about new projects or new content they published, new blog posts, thoughts of them, etc. I’m not interested in hearing political opinions, sport scores, etc, which I already have Facebook for. If I follow someone, I’ll read every single tweet from them. For the last 5 years, I didn’t miss a tweet in my timeline, so I have to be very careful about who to follow, and what content to see. So I set out to customize Twitter to archive that goal, and to only see about 50-75 tweets per day.&lt;/p&gt;
+
+&lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
+
+&lt;p&gt;I’ve been using &lt;a href=&quot;https://tapbots.com/tweetbot/&quot;&gt;Tweetbot&lt;/a&gt; for the last few years, the technique described below might work with other third party Twitter clients also.&lt;/p&gt;
+
+&lt;h3 id=&quot;muted-keywords&quot;&gt;Muted Keywords&lt;/h3&gt;
+
+&lt;p&gt;Very basic list of words, that as soon as a tweet contains one of them, it will be hidden, examples include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;headphone jack&lt;/li&gt;
+  &lt;li&gt;drake&lt;/li&gt;
+  &lt;li&gt;podcast&lt;/li&gt;
+  &lt;li&gt;president&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;muted-users&quot;&gt;Muted users&lt;/h3&gt;
+
+&lt;p&gt;I stopped using this feature, now that I use secret lists to follow people (see below), and disabled RTs. Muting users for a given time period or forever is useful for a few situations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Some users in your timeline might promote a product, so you can mute that product&lt;/li&gt;
+  &lt;li&gt;If a user is at a conference/event you’re not interested in, you can mute them for a few days&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;muted-regexes&quot;&gt;Muted Regexes&lt;/h3&gt;
+
+&lt;p&gt;A very powerful feature of Tweetbot is to define a regex to hide tweet. I use it to hide annoying jokes like&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;remember \w+&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;german word for \w+&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\w+ is the new \w+&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;or to hide tweets from people that think we’re interested about their airplane delays or #sports&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;(virgin|Virgin|@United|delta|Delta|JetBlue|jetblue)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;twitter.com/i/moments&lt;/li&gt;
+  &lt;li&gt;For every #sports #event there are also custom-made mute filters (truncated): &lt;code class=&quot;highlighter-rouge&quot;&gt;(?#World Cup)(?i)((?# Terms)(Brazil\s*2014|FIFA|World\s*Cup|Soccer|F(oo|u)tbal)|(?# Chants)(go a l |[^\w](ole\s*){2,})|(?# Teams)(#(B....&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;hide-all-mentions&quot;&gt;Hide all mentions&lt;/h3&gt;
+
+&lt;p&gt;This very much changed my whole timeline (for the better). Turns out, I follow people for their announcements, what they work on, what they’re doing, what they’re thinking about, etc. I actually don’t want to see 2 people communicating publicly using @ mentions, unless it’s a topic I’m interested in. So I started hiding all tweets that start with an &lt;code class=&quot;highlighter-rouge&quot;&gt;@&lt;/code&gt; symbol using a simple Tweetbot regex&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;^@&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If I want to see responses to a tweet, I’d swipe to the left side, and see all replies.&lt;/p&gt;
+
+&lt;h3 id=&quot;muted-clients&quot;&gt;Muted Clients&lt;/h3&gt;
+
+&lt;p&gt;Muting certain clients has been amazing, very easy to set up and cleans up your timeline a lot. Some of the clients I mute:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Buffer (to avoid “content marketing”, so many companies make the mistake of tweeting the same posts every week or so using Buffer)&lt;/li&gt;
+  &lt;li&gt;IFTTT (lots of people use that to auto-post not original content)&lt;/li&gt;
+  &lt;li&gt;Spotify&lt;/li&gt;
+  &lt;li&gt;Foursquare (I follow friends on Swarm already, no need to see it twice)&lt;/li&gt;
+  &lt;li&gt;Facebook&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/tweetbot_filters.png&quot; width=&quot;220&quot; style=&quot;float: right; margin-left: 20px&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;secret-lists&quot;&gt;Secret Lists&lt;/h3&gt;
+
+&lt;p&gt;One issue I had was to balance the number of tweets in my timeline, and then also being polite and following friends. To avoid the whole “Why are you not following me?” conversation, I now use a private list to follow about 300 people only. I &lt;a href=&quot;https://github.com/krausefx/twitter-unfollow&quot;&gt;open sourced the script&lt;/a&gt; I used to migrate all the people I used to follow over to a private list.&lt;/p&gt;
+
+&lt;h3 id=&quot;disable-rts&quot;&gt;Disable RTs&lt;/h3&gt;
+
+&lt;p&gt;This has been a great change: As described above, I follow people for what they do, what they think of, and what they’re working on. Some people have the habit of RTing content that might be interesting, but not relevant to why I want to stay subscribed to their tweets. On Tweetbot, you can.&lt;/p&gt;
+
+&lt;h3 id=&quot;muting-hashtags&quot;&gt;Muting hashtags&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/tweetbot_filters_2.png&quot; width=&quot;220&quot; style=&quot;float: right; margin-left: 20px; margin-top: 20px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I thank everyone for using hashtags for certain events, making it easy to hide them from my timeline :)&lt;/p&gt;
+
+&lt;h3 id=&quot;disadvantages-of-this-approach&quot;&gt;Disadvantages of this approach&lt;/h3&gt;
+
+&lt;p&gt;Some of the newer Twitter features don’t have an API, and therefore can’t be offered by Tweetbot. This includes Polls, Moments and Group DMs. Since I don’t want to miss group DMs, I set up email notifications for Twitter DMs, and set up a Gmail filter to auto-archive emails that are not from group DMs.&lt;/p&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;I’ve spent quite some time optimizing that workflow, and it’s very specific, and probably not useful for most people. I try to minimize my time on social media, I only browse my Twitter feed when I have a few minutes to kill on the go. Meaning I work through my timeline only on my iPhone, and reply to mentions and DMs only on my Mac. I don’t want to come across uninterested, I do follow people on Facebook, I do read news and stay up to date. Twitter is a place for very specific content for me, and I want to keep using it as that.&lt;/p&gt;</content><author><name></name></author><category term="twitter" /><summary type="html">Background</summary></entry><entry><title type="html">iOS Privacy: Track website activities, steal user data &amp;amp; credentials and add your own ads to any website in your iOS app</title><link href="https://krausefx.com//blog/follow-user" rel="alternate" type="text/html" title="iOS Privacy: Track website activities, steal user data &amp; credentials and add your own ads to any website in your iOS app" /><published>2018-03-03T00:00:00+00:00</published><updated>2018-03-03T00:00:00+00:00</updated><id>https://krausefx.com//blog/follow-user</id><content type="html" xml:base="https://krausefx.com//blog/follow-user">&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;div class=&quot;video&quot; style=&quot;float: right; margin-left: 20px&quot;&gt;
+  &lt;figure&gt;
+    &lt;iframe src=&quot;//www.youtube.com/embed/ZIogd0kv80c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; width=&quot;170&quot; height=&quot;350&quot;&gt;&lt;/iframe&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Most iOS apps need to show external web content at some point. Apple provided multiple ways for a developer to do so, the official ones are:&lt;/p&gt;
+
+&lt;h3 id=&quot;launch-a-url-in-safari&quot;&gt;Launch a URL in Safari&lt;/h3&gt;
+
+&lt;p&gt;This will use the app switcher to move your own app into the background. This way, the user has their own browser (Safari), with their session and content blocker, browser plugins (e.g. 1Password), etc. As launching Safari puts your app into the background, many app developers are worried the user doesn’t come back to them.&lt;/p&gt;
+
+&lt;p&gt;Check out the first video to see how this looks in action ➡️&lt;/p&gt;
+
+&lt;h3 id=&quot;use-in-app-sfsafariviewcontroller&quot;&gt;Use in-app &lt;a href=&quot;https://developer.apple.com/documentation/safariservices/sfsafariviewcontroller&quot;&gt;SFSafariViewController&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Many third party iOS apps use this approach (e.g. Tweetbot).&lt;/p&gt;
+&lt;div class=&quot;video&quot; style=&quot;float: right; margin-left: 20px;&quot;&gt;
+  &lt;figure&gt;
+    &lt;iframe src=&quot;//www.youtube.com/embed/EPH5XGbigJU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; width=&quot;170&quot; height=&quot;350&quot;&gt;&lt;/iframe&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;It allows an app developer to use the built-in Safari with all its features, without making the user leave your application. It features all the Safari features, but from within your application.&lt;/p&gt;
+
+&lt;p&gt;Check out the second video to see how this looks in action ➡️&lt;/p&gt;
+
+&lt;h3 id=&quot;current-state-with-larger-social-network-apps&quot;&gt;Current state with larger social network apps&lt;/h3&gt;
+
+&lt;p&gt;Many larger iOS apps re-implemented their own in-app web browser. While this was necessary many years ago, nowadays it’s not only not required any more, it actually adds a major risk to the end-user.&lt;/p&gt;
+
+&lt;p&gt;Those custom in-app browsers usually use their own UI elements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Custom address bar&lt;/li&gt;
+  &lt;li&gt;Custom SSL indicator&lt;/li&gt;
+  &lt;li&gt;Custom share button&lt;/li&gt;
+  &lt;li&gt;Custom reload button&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/browser/browser.png&quot; width=&quot;250&quot; style=&quot;float: right; margin-left: 30px&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;problems-with-custom-in-app-browsers&quot;&gt;Problems with custom in-app browsers&lt;/h2&gt;
+
+&lt;p&gt;If an app renders their own &lt;a href=&quot;https://developer.apple.com/documentation/webkit/wkwebview&quot;&gt;WKWebView&lt;/a&gt;, they not only cause inconvenience for the user, but they actually put them at serious risk.&lt;/p&gt;
+
+&lt;h3 id=&quot;convenience&quot;&gt;Convenience&lt;/h3&gt;
+
+&lt;h4 id=&quot;user-session&quot;&gt;User session&lt;/h4&gt;
+
+&lt;p&gt;The user’s login session isn’t available, meaning if you get a link to e.g. an Amazon product, you now have to login and enter your 2-factor authentication code to purchase a product.&lt;/p&gt;
+
+&lt;h4 id=&quot;browser-extensions&quot;&gt;Browser extensions&lt;/h4&gt;
+
+&lt;p&gt;If the user has browser extensions (like password managers), they won’t have access to them in a custom in-app browser.&lt;/p&gt;
+
+&lt;h4 id=&quot;deep-linking&quot;&gt;Deep linking&lt;/h4&gt;
+
+&lt;p&gt;Deep linking itself has multiple open issues on the iOS platform. By using a custom in-app browser, it adds an extra layer that doesn’t work well with deep linking. Instead of opening the Amazon app when tapping on an Amazon link in “Social Media App X”, it opens the product in a plain web-view, with no login session, and no way to open the product in the app.&lt;/p&gt;
+
+&lt;h4 id=&quot;content-blockers&quot;&gt;Content blockers&lt;/h4&gt;
+
+&lt;p&gt;If the user has content blockers installed, they’re not being used by custom in-app browsers.&lt;/p&gt;
+
+&lt;h4 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/browser/browser-dialog.png&quot; width=&quot;250&quot; style=&quot;float: right; margin-left: 30px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no way for the user to store the current URL in their bookmarks.&lt;/p&gt;
+
+&lt;h4 id=&quot;share-a-website&quot;&gt;Share a website&lt;/h4&gt;
+
+&lt;p&gt;Apps use this opportunity to force their users to use whatever “social features” they think are useful to them. Usually that means locking the user into their ecosystem, and not allowing people to share the content on the platform of their choice. There should be an explicit App Store rule against this.&lt;/p&gt;
+
+&lt;h3 id=&quot;security--privacy&quot;&gt;Security &amp;amp; Privacy&lt;/h3&gt;
+
+&lt;p&gt;Using a custom in-app browser, allows the app developer to inject &lt;strong&gt;ANY&lt;/strong&gt; JavaScript code into the website the user visits. This means, any content, any data and any input that is shown or stored on the website is accessible to the app.&lt;/p&gt;
+
+&lt;h4 id=&quot;analytics&quot;&gt;Analytics&lt;/h4&gt;
+
+&lt;p&gt;This is basically the main reason why in-app browsers are still a thing: It allows the app maintainer to inject additional analytics code, without telling the user. This way, the app’s developer can track the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How long does the user visit the linked website?&lt;/li&gt;
+  &lt;li&gt;How fast does the user scroll?&lt;/li&gt;
+  &lt;li&gt;Which links does the user open, and how long do they stay on each of them?&lt;/li&gt;
+  &lt;li&gt;Combined with &lt;a href=&quot;https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running&quot;&gt;watch.user&lt;/a&gt;, the app can record you while you browse third party websites, or even use the iPhone X face sensor to parse your face&lt;/li&gt;
+  &lt;li&gt;Every single tap, swipe or any other gesture&lt;/li&gt;
+  &lt;li&gt;Device movements, GPS location (if granted) and any other granted iOS sensor, while the app is still in the foreground.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;user-credentials&quot;&gt;User credentials&lt;/h4&gt;
+
+&lt;p&gt;Any app with an in-app browser can easily steal the user’s email address, passwords and two-factor authentication codes. They can do that by injecting JavaScript code that bridges the data over to the app, or directly to a remote host. This is simple, it’s basically code like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;email&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;password&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;That’s all that’s needed: just inject the code above to every website, run it on every user’s key stroke, and you’ll get a nice list of email addresses and passwords.&lt;/p&gt;
+
+&lt;p&gt;To run JavaScript in your own web view, you can just use&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;no&quot;&gt;NSString&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;script&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;document.getElementById('password').value&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;evaluateJavaScript&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:script&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;completionHandler&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:^&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;NSError&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}];&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;user-data&quot;&gt;User data&lt;/h4&gt;
+
+&lt;p&gt;Once the user is logged in, you also get access to the full HTML DOM + JavaScript data &amp;amp; events, which means you have full access to whatever the user sees. This includes things like your emails, your Amazon order history, your friend list, or whatever other data/website you access from an in-app web view.&lt;/p&gt;
+
+&lt;h4 id=&quot;https&quot;&gt;HTTPs&lt;/h4&gt;
+
+&lt;p&gt;Usually the web browser has a standardised way of indicating the SSL certificate next to the browser’s URL. In the case of custom in-app browsers, the SSL logo is being added by the app’s author, meaning you trust the app’s maintainer to only show the logo if it’s actually a valid SSL certificate.&lt;/p&gt;
+
+&lt;h4 id=&quot;ads&quot;&gt;Ads&lt;/h4&gt;
+
+&lt;p&gt;Custom in-app browsers allow all app developers to inject their own ad system into any website that’s shown as part of their app. But not only that, they can &lt;strong&gt;replace&lt;/strong&gt; the ads identifier of ads that are already shown on the website, so that the revenue goes directly to them, instead of the website owner.&lt;/p&gt;
+
+&lt;h4 id=&quot;and-more&quot;&gt;And more&lt;/h4&gt;
+
+&lt;p&gt;These are just some of the things that immediately come to my mind, every time I use an in-app browser, there are probably a lot more evil things a company &lt;a href=&quot;https://krausefx.com/blog/trusting-sdks&quot;&gt;or SDK&lt;/a&gt; could be doing.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-we-solve-this&quot;&gt;How can we solve this?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reject apps that don’t use &lt;a href=&quot;https://developer.apple.com/documentation/safariservices/sfsafariviewcontroller&quot;&gt;SFSafariViewController&lt;/a&gt; or launch Safari directly to show third party website content&lt;/li&gt;
+  &lt;li&gt;There should be exceptions, e.g. if a webview is used to show parts of the UI, or dynamic content, but it should be illegal to use webviews to show a linked or third party website&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also &lt;a href=&quot;https://openradar.appspot.com/radar?id=4963695432040448&quot;&gt;filed a radar for this issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;similar-projects-ive-worked-on&quot;&gt;Similar projects I’ve worked on &lt;/h2&gt;
+
+&lt;p&gt;I published more posts on how to access the camera, the user’s location data, their Mac screen and their iCloud password, check out &lt;a href=&quot;/privacy&quot;&gt;krausefx.com/privacy&lt;/a&gt; for more.&lt;/p&gt;</content><author><name></name></author><category term="security" /><category term="privacy" /><category term="sdks" /><summary type="html">Background</summary></entry><entry><title type="html">Trusting third party SDKs</title><link href="https://krausefx.com//blog/trusting-sdks" rel="alternate" type="text/html" title="Trusting third party SDKs" /><published>2018-02-15T00:00:00+00:00</published><updated>2018-02-15T00:00:00+00:00</updated><id>https://krausefx.com//blog/trusting-sdks</id><content type="html" xml:base="https://krausefx.com//blog/trusting-sdks">&lt;p&gt;Third-party SDKs can often easily be &lt;strong&gt;modified&lt;/strong&gt; while you download them! Using a simple &lt;a href=&quot;https://wikipedia.org/wiki/Man_in_the_middle_attack&quot;&gt;person-in-the-middle attack&lt;/a&gt;, anyone in the same network can insert malicious code into the library, and with that into your application, as a result running in your user’s pockets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;31%&lt;/strong&gt; of the most popular closed-source iOS SDKs are vulnerable to this attack, as well as a total of &lt;strong&gt;623 libraries&lt;/strong&gt; on CocoaPods. As part of this research I notified the affected parties, and submitted patches to CocoaPods to warn developers and SDK providers.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-the-potential-consequences-of-a-modified-sdk&quot;&gt;What are the potential consequences of a modified SDK?&lt;/h2&gt;
+
+&lt;p&gt;It’s extremely dangerous if someone modifies an SDK before you install it. You are shipping your app with that code/binary. It will run on thousands or millions of devices within a few days, and everything you ship within your app runs with the &lt;strong&gt;exact&lt;/strong&gt; same privileges as your app.&lt;/p&gt;
+
+&lt;p&gt;That means any SDK you include in your app has access to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The same keychain your app has access to&lt;/li&gt;
+  &lt;li&gt;Any folders/files your app has access to&lt;/li&gt;
+  &lt;li&gt;Any app permissions your app has, e.g. location data, photo library access&lt;/li&gt;
+  &lt;li&gt;iCloud containers of your app&lt;/li&gt;
+  &lt;li&gt;All data your app exchanges with a web server, e.g. user logins, personal information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Apple enforces iOS app sandboxing for good reasons, so don’t forget that &lt;strong&gt;any SDK you include in your app runs inside your app’s sandbox&lt;/strong&gt;, and has access to everything your app has access to.&lt;/p&gt;
+
+&lt;p&gt;What’s the worst that a malicious SDK could do?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Steal sensitive user data, basically add a keylogger for your app, and record every tap&lt;/li&gt;
+  &lt;li&gt;Steal keys and user’s credentials&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://krausefx.com/blog/ios-privacy-detectlocation-an-easy-way-to-access-the-users-ios-location-data-without-actually-having-access&quot;&gt;Access the user’s historic location data and sell it to third parties&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://krausefx.com/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking&quot;&gt;Show phishing pop-ups for iCloud, or other login credentials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running&quot;&gt;Take pictures in the background without telling the user&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The attack described here shows how an attacker can use &lt;strong&gt;your mobile app&lt;/strong&gt; to steal sensitive user data.&lt;/p&gt;
+
+&lt;h2 id=&quot;web-security-101&quot;&gt;Web Security 101&lt;/h2&gt;
+
+&lt;p&gt;To understand how malicious code can be bundled into your app without your permission or awareness, I will provide necessary background to understanding how a &lt;a href=&quot;https://wikipedia.org/wiki/Man_in_the_middle_attack&quot;&gt;MITM attack&lt;/a&gt; works and how to avoid it.&lt;/p&gt;
+
+&lt;p&gt;The information below is vastly simplified, as I try to describe things in a way that a mobile developer without too much network knowledge can get a sense of how things work and how they can protect themselves.&lt;/p&gt;
+
+&lt;h3 id=&quot;https-vs-http&quot;&gt;HTTPS vs HTTP&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;HTTP&lt;/strong&gt;: Unencrypted traffic, anybody in the same network (WiFi or Ethernet) can easily listen to the packets. It’s very straightforward to do on unencrypted WiFi networks, but it’s actually almost as easy to do so on a protected WiFi or Ethernet network. There is no way for your computer to verify the packets came from the host you requested data from; Other computers can receive packets before you, open and modify them and send the modified version to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HTTPS&lt;/strong&gt;: With HTTPS traffic other hosts in the network can still listen to your packets, but can’t open them. They still get some basic metadata like the host name, but no details (like the body, full URL, …). Additionally your client also verifies that the packets came from the original host and that no one on the way there modified the content. HTTPS is based on TLS.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-a-browser-switches-from-http-to-https&quot;&gt;How a browser switches from HTTP to HTTPS&lt;/h3&gt;
+
+&lt;p&gt;Enter “&lt;a href=&quot;http://google.com&quot;&gt;http://google.com&lt;/a&gt;” in your web browser (make sure to use “http”, not “https”). You’ll see how the browser automatically switches from the unsafe “http” protocol to “https”.&lt;/p&gt;
+
+&lt;p&gt;This switch doesn’t happen in your browser but comes from the remote server (google.com), as your client (in this case the browser) can’t know what kind of protocol is supported by the host. (Exception for hosts that make use of &lt;a href=&quot;https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security&quot;&gt;HSTS&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/trusting-sdks/image_0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The initial request happens via “http”, so the server has no choice but to respond in clear text “http” to tell the client to switch over to the secure “https” protocol with a “301 Moved Permanently” response code.&lt;/p&gt;
+
+&lt;p&gt;You probably already see the problem here: since the response is being sent in clear text also, an attacker can modify that particular packet and replace the redirect destination URL to stay unencrypted “http”. This is called SSL Stripping, and we’ll talk more about this later.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-network-requests-work&quot;&gt;How network requests work&lt;/h3&gt;
+
+&lt;p&gt;Very simplified, network requests work on multiple layers. Depending on the layer, different information is available on how to route a packet:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The lowest layer (Data Link Layer) uses MAC addresses to identify hosts in a network&lt;/li&gt;
+  &lt;li&gt;The layer above (Network Layer) uses IP addresses to identify hosts in the network&lt;/li&gt;
+  &lt;li&gt;The layers above add port information and the actual message content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you’re interested, you can learn how the OSI (Open Systems Interconnection) model works, in particular the implementation TCP/IP (e.g. &lt;a href=&quot;http://microchipdeveloper.com/tcpip:tcp-ip-five-layer-model&quot;&gt;http://microchipdeveloper.com/tcpip:tcp-ip-five-layer-model&lt;/a&gt;).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, if your computer now sends a packet to the router, how does the router know where to route the packet based on the first layer (MAC addresses)? To solve this problem, the router uses a protocol called ARP (Address Resolution Protocol).&lt;/p&gt;
+
+&lt;h3 id=&quot;how-arp-works-and-how-it-can-be-abused&quot;&gt;How ARP works and how it can be abused&lt;/h3&gt;
+
+&lt;p&gt;Simplified, the devices in a network use ARP mapping to remember where to send packets of a certain MAC address. The way ARP works is simple: if a device wants to know where to send a packet for a certain IP address, it asks everyone in the network: “Which MAC address belongs to this IP?”. The device with that IP then replies to this message ✋&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;
+  &lt;img src=&quot;/assets/posts/trusting-sdks/image_1.png&quot; width=&quot;500&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, there is no way for a device to authenticate the sender of an ARP message. Therefore an attacker can be fast in responding to ARP announcements sent by another device, basically saying: “Hey, please send all packets that should go to IP address X to this MAC address”. The router will remember that and use that information for all future requests. This is called “ARP poisoning.”&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;
+  &lt;img src=&quot;/assets/posts/trusting-sdks/image_2.png&quot; width=&quot;650&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;See how all packets are now routed through the attacker instead of going directly from the remote host to you?&lt;/p&gt;
+
+&lt;p&gt;As soon as the packets go through the attacker’s machine there is some risk. It’s the same risk you have when trusting your ISP or a VPN service: if the services you use are properly encrypted, they can’t really know details about what you’re doing or modify packets without your client (e.g. browser) noticing. As mentioned before there is still basic information that will always be visible such as certain metadata (e.g. the host name).&lt;/p&gt;
+
+&lt;p&gt;If there are web packets that are unencrypted (say HTTP) the attacker can not only look inside and read their content, but can also modify anything in there with no way of detecting the attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: the technique described above is different from what you might have read about the security issues with public WiFi networks. Public WiFis are a problem because everybody can just read whatever packets are flying through the air, and if they’re unencrypted HTTP, it’s easy to read what’s happening. ARP pollution works on any network, no matter if public or not, or if WiFi or ethernet.&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-see-this-in-action&quot;&gt;Let’s see this in action&lt;/h2&gt;
+
+&lt;p&gt;Let’s look into some SDKs and how they distribute their files, and see if we can find something.&lt;/p&gt;
+
+&lt;h3 id=&quot;cocoapods&quot;&gt;CocoaPods&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Open source Pods&lt;/strong&gt;: CocoaPods uses git under the hood to download code from code hosting services like GitHub. The &lt;code class=&quot;highlighter-rouge&quot;&gt;git://&lt;/code&gt; protocol uses &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh://&lt;/code&gt;, which is similarly encrypted to HTTPS. In general, if you use CocoaPods to install open source SDKs from GitHub, you’re pretty safe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Closed source Pods&lt;/strong&gt;: When preparing this blog post, I noticed that Pods can define a HTTP URL to reference binary SDKs, so I submitted multiple pull requests (&lt;a href=&quot;https://github.com/CocoaPods/CocoaPods/pull/7249&quot;&gt;1&lt;/a&gt; and &lt;a href=&quot;https://github.com/CocoaPods/CocoaPods/pull/7250&quot;&gt;2&lt;/a&gt;) that got merged and released with &lt;a href=&quot;https://blog.cocoapods.org/CocoaPods-1.4.0/&quot;&gt;CocoaPods 1.4.0&lt;/a&gt; to show warnings when a Pod uses unencrypted http.&lt;/p&gt;
+
+&lt;h3 id=&quot;crashlytics-sdk&quot;&gt;Crashlytics SDK&lt;/h3&gt;
+
+&lt;p&gt;Crashlytics uses CocoaPods as the default distribution, but has 2 alternative installation methods: the Fabric Mac app and manual installation, which are both https encrypted, so not much we can do here.&lt;/p&gt;
+
+&lt;h3 id=&quot;localytics&quot;&gt;&lt;a href=&quot;http://docs.localytics.com/dev/ios.html&quot;&gt;Localytics&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Let’s look at a sample SDK, the docs page is unencrypted via http (see the address bar)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/trusting-sdks/image_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So you might think: “Ah, I’m just reading the docs here, I don’t care if it’s unencrypted”. The problem here is that the download link (in blue) is also transferred as part of the website, meaning an attacker can easily replace the &lt;code class=&quot;highlighter-rouge&quot;&gt;https://&lt;/code&gt; link with &lt;code class=&quot;highlighter-rouge&quot;&gt;http://&lt;/code&gt;, making the actual file download unsafe.&lt;/p&gt;
+
+&lt;p&gt;Alternatively an attacker could just switch the https:// link to the attacker’s URL that looks similar&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/localytics-sdk-docs/sdk.zip&quot;&gt;https://s3.amazonaws.com/localytics-sdk/sdk.zip&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/localytics-sdk-docs/sdk.zip&quot;&gt;https://s3.amazonaws.com/localytics-sdk-binaries/sdk.zip&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And there is no good way for the user to verify that the specific host, URL or S3 bucket belongs to the author of the SDK.&lt;/p&gt;
+
+&lt;p&gt;To verify this I’ve set up my &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry PI&lt;/a&gt; to intercept the traffic and do various SSL Stripping (downgrading of HTTPS connections to HTTP) across the board, from JavaScript files, to image resources and of course download links.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/trusting-sdks/image_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once the download link was downgraded to HTTP, it’s easy to replace the content of the zip file as well:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/trusting-sdks/image_5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Replacing HTML text on the fly is pretty easy, but how can an attacker replace the content of a zip file or binary?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The attacker downloads the original SDK&lt;/li&gt;
+  &lt;li&gt;The attacker inserts malicious code into the SDK&lt;/li&gt;
+  &lt;li&gt;The attacker compresses the modified SDK&lt;/li&gt;
+  &lt;li&gt;The attacker looks at packets coming by, and jumps in to replace any zip file matching a certain pattern with the file the attacker prepared&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;(This is the same approach used by the &lt;a href=&quot;https://charlesreid1.com/wiki/MITM_Labs/Bettercap_to_Replace_Images&quot;&gt;image replacement trick&lt;/a&gt;: Every image that’s transferred via HTTP gets replaced by a meme)&lt;/p&gt;
+
+&lt;p&gt;As a result, the downloaded SDK might include additional files or code that was modified:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/trusting-sdks/image_6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For this attack to work, the requirements are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The attacker is in the same network as you&lt;/li&gt;
+  &lt;li&gt;The docs page is unencrypted and allows SSL Stripping on all links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;
+  &lt;img src=&quot;/assets/posts/trusting-sdks/image_7.png&quot; width=&quot;600&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Localytics resolved the issue after disclosing it, so both the docs page, and the actual download are now HTTPS encrypted.&lt;/p&gt;
+
+&lt;h3 id=&quot;askingpoint&quot;&gt;&lt;a href=&quot;https://www.askingpoint.com/documentation-ios-sdk/&quot;&gt;AskingPoint&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Looking at the next SDK, we have a HTTPS encrypted docs page, looking at the screenshot, this looks secure:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/trusting-sdks/image_8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Turns out, the HTTPS based website links to an unencrypted HTTP file, and web browsers don’t warn users in those cases (&lt;a href=&quot;https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content&quot;&gt;some browsers already show a warning if JS/CSS files are downloaded via HTTP&lt;/a&gt;). It’s almost impossible for the user to detect that something is going on here, except if they were to actually manually compare the hashes provided. As part of this project, I filed a security report for both Google Chrome (&lt;a href=&quot;https://bugs.chromium.org/p/chromium/issues/detail?id=794830&quot;&gt;794830&lt;/a&gt;) and Safari (&lt;a href=&quot;https://openradar.appspot.com/radar?id=5000976083714048&quot;&gt;rdar://36039748&lt;/a&gt;) to warn the user of unencrypted file downloads on HTTPS sites.&lt;/p&gt;
+
+&lt;h3 id=&quot;aws-sdk&quot;&gt;&lt;a href=&quot;https://aws.amazon.com/mobile/sdk/&quot;&gt;AWS SDK&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/trusting-sdks/image_9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the time I was conducting this research, the AWS iOS SDK download page was HTTPS encrypted, however linked to a non-encrypted zip download, similarly to the SDKs mentioned before. The issue has been resolved after disclosing it to Amazon.&lt;/p&gt;
+
+&lt;h2 id=&quot;putting-it-all-together&quot;&gt;Putting it all together&lt;/h2&gt;
+
+&lt;p&gt;Thinking back about the iOS privacy vulnerabilities mentioned before (iCloud phishing, location access through pictures, accessing camera in background), what if we’re not talking about evil developers trying to trick their users… What if we talk about attackers that &lt;strong&gt;target you, the iOS developer&lt;/strong&gt;, to reach millions of users within a short amount of time?&lt;/p&gt;
+
+&lt;h3 id=&quot;attacking-the-developer&quot;&gt;Attacking the developer&lt;/h3&gt;
+
+&lt;p&gt;What if an SDK gets modified as you download it using a person-in-the-middle attack, and inserts malicious code that breaks the user’s trust? Let’s take the iCloud phishing popup as an example, how hard would it be to use apps from other app developers to steal passwords from the user for you, and send them to your remote server?&lt;/p&gt;
+
+&lt;p&gt;In the video below you can see a sample iOS app that shows a mapview. After downloading and adding the AWS SDK to the project, you can see how malicious code is being executed, in this case an iCloud phishing popup is shown and the cleartext iCloud password can be accessed and sent to any remote server.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;
+  &lt;figure&gt;
+    &lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;//www.youtube.com/embed/Mx2oFCyWg2A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The only requirement for this particular attack to work is that the attacker is in the same network as you (e.g. stays in the same conference hotel). Alternatively this attack can also be done by your ISP or the VPN service you use. My Mac runs the default macOS configuration, meaning there is no proxy, custom DNS or VPN set up.&lt;/p&gt;
+
+&lt;p&gt;Setting up an attack like this is surprisingly easy using publicly available tools that are designed to do automatic SSL Stripping, ARP pollution and replacing of content of various requests. If you’ve done it before, it will take less than an hour to set everything up on any computer, including a Raspberry Pi, which I used for my research. The total costs for the whole attack is therefore less than $50.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/trusting-sdks/image_10.jpg&quot; width=&quot;420&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided not to publish the names of all the tools I used, nor the code I wrote. You might want to look into well-known tools like &lt;a href=&quot;https://moxie.org/software/sslstrip/&quot;&gt;sslstrip&lt;/a&gt;, &lt;a href=&quot;https://mitmproxy.org/&quot;&gt;mitmproxy&lt;/a&gt; and &lt;a href=&quot;https://www.wireshark.org/&quot;&gt;Wireshark&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;running-arbitrary-code-on-the-developers-machine&quot;&gt;Running arbitrary code on the developer’s machine&lt;/h3&gt;
+
+&lt;p&gt;The previous example injected malicious code into the iOS app using a hijacked SDK. Another attack vector is the developer’s Mac. Once an attacker can run code on your machine, and maybe even has remote SSH access, the damage could be significant:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Activate remote SSH access for the admin account&lt;/li&gt;
+  &lt;li&gt;Install keylogger to get admin password&lt;/li&gt;
+  &lt;li&gt;Decrypt the keychain using the password, and send all credentials to remote server&lt;/li&gt;
+  &lt;li&gt;Access local secrets, like AWS credentials, CocoaPods &amp;amp; RubyGems push tokens and more
+    &lt;ul&gt;
+      &lt;li&gt;If a developer now has a popular CocoaPod, you can spread more malicious code through their SDKs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Access literally any file and database on your Mac, including iMessage conversations, emails and source code&lt;/li&gt;
+  &lt;li&gt;Record the user’s screen without them knowing&lt;/li&gt;
+  &lt;li&gt;Install a new root SSL certificate, allowing the attacker to intercept most of your encrypted network requests&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To prove that this is working, I looked into how to inject malicious code in a shell script developers run locally, in this case BuddyBuild:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Same requirements as in the previous example, attacker needs to be in the same network&lt;/li&gt;
+  &lt;li&gt;BuddyBuild docs told users to &lt;code class=&quot;highlighter-rouge&quot;&gt;curl&lt;/code&gt; an unencrypted URL piping the content over to &lt;code class=&quot;highlighter-rouge&quot;&gt;sh&lt;/code&gt;, meaning any code the &lt;code class=&quot;highlighter-rouge&quot;&gt;curl&lt;/code&gt; command returns will be executed&lt;/li&gt;
+  &lt;li&gt;The modified &lt;code class=&quot;highlighter-rouge&quot;&gt;UpdateSDK&lt;/code&gt; is provided by the attacker (Raspberry PI), and asks for the admin password (normally BuddyBuild’s update script doesn’t ask for this)&lt;/li&gt;
+  &lt;li&gt;Within under a second, the malicious script does the following
+    &lt;ul&gt;
+      &lt;li&gt;Enable SSH remote access for the current account&lt;/li&gt;
+      &lt;li&gt;Install &amp;amp; setup a keylogger that auto-starts when you login&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once the attacker has the root password and SSH access, they can do anything listed above.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;
+  &lt;figure&gt;
+    &lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;//www.youtube.com/embed/N1Wj6ipc-HU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;BuddyBuild resolved the issue after reporting it.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-realistic-is-such-an-attack&quot;&gt;How realistic is such an attack?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Very!&lt;/strong&gt; Open your Network settings on the Mac, and take a look at the list of WiFi networks your Mac was connected to. In my case, my MacBook was connected to over 200 hotspots. How many of them can you fully trust? Even in a trustworthy network, there could still be other machines that got hacked previously which are doing remote controlled attacks (see section above)&lt;/p&gt;
+
+&lt;p&gt;SDKs and developer tools become more and more a target for attackers. Some examples from the past years:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/XcodeGhost&quot;&gt;Xcode Ghost&lt;/a&gt; affected about 4,000 iOS apps, including WeChat:
+    &lt;ul&gt;
+      &lt;li&gt;Attacker gains remote access to any phone running the app&lt;/li&gt;
+      &lt;li&gt;Show phishing popups&lt;/li&gt;
+      &lt;li&gt;Access and modify the clipboard (dangerous when using password managers)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://9to5mac.com/2017/03/07/cia-ios-malware-wikileaks/&quot;&gt;The NSA worked on finding iOS exploits&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaspersky.com/blog/pegasus-spyware/14604/&quot;&gt;Pegasus&lt;/a&gt;: malware for non-jailbroken iPhones, &lt;a href=&quot;https://citizenlab.ca/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/&quot;&gt;used by governments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/KeyRaider&quot;&gt;KeyRaider&lt;/a&gt;: Only affected jailbroken iPhones, but still stole user-credentials from over 200,000 end-users&lt;/li&gt;
+  &lt;li&gt;Just the last few weeks, there have been multiple posts about how this affects web projects also (e.g. &lt;a href=&quot;https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://scotthelme.co.uk/protect-site-from-cyrptojacking-csp-sri/&quot;&gt;2&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theiphonewiki.com/wiki/Malware_for_iOS&quot;&gt;and many, many more&lt;/a&gt;. Another approach is getting access to the download server (e.g. S3 bucket using access keys) and replacing the binary. This happened multiple times in the past few years, for example &lt;a href=&quot;https://www.macrumors.com/2016/03/07/transmission-malware-downloaded-6500-times/&quot;&gt;Transmission Mac app incident&lt;/a&gt;. This opens a whole new level of area of attack, which I didn’t cover in this blog post.&lt;/p&gt;
+
+&lt;h3 id=&quot;conferences-hotels-coffee-shops&quot;&gt;Conferences, hotels, coffee shops&lt;/h3&gt;
+
+&lt;p&gt;Every time you connect to the WiFi at a conference, hotel or coffee shop, you become an easy target. Attackers know that there is a high number of developers during conferences and can easily make use of the situation.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-sdk-providers-protect-their-users&quot;&gt;How can SDK providers protect their users?&lt;/h3&gt;
+
+&lt;p&gt;This would go out of scope for this blog post. Mozilla offers a &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Security&quot;&gt;security guide&lt;/a&gt; that’s a good starting point. Mozilla provides a tool called &lt;a href=&quot;https://observatory.mozilla.org&quot;&gt;observatory&lt;/a&gt; that will do some automatic checks of the server settings and certificates.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-many-of-the-most-popular-sdks-are-affected-by-this-vulnerability&quot;&gt;How many of the most popular SDKs are affected by this vulnerability?&lt;/h3&gt;
+
+&lt;div style=&quot;float: right; width: 340px;&quot;&gt;
+  &lt;img src=&quot;/assets/posts/trusting-sdks/image_11.png&quot; width=&quot;100%&quot; /&gt;
+  &lt;br /&gt;
+  &lt;br /&gt;
+  &lt;br /&gt;
+  &lt;img src=&quot;/assets/posts/trusting-sdks/image_12.png&quot; width=&quot;100%&quot; /&gt;
+  &lt;br /&gt;
+  &lt;br /&gt;
+  &lt;br /&gt;
+  &lt;img src=&quot;/assets/posts/trusting-sdks/image_13.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;While doing this research starting on 23rd November 2017, I investigated 41 of the most popular mobile SDKs according to &lt;a href=&quot;https://www.appsight.io/?asot=2&amp;amp;o=top&amp;amp;os=ios&quot;&gt;AppSight&lt;/a&gt; (counting all Facebook and Google SDKs as one, as they share the same installation method - skipping SDKs that are open source on GitHub)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;41&lt;/strong&gt; SDKs checked
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;23&lt;/strong&gt; are closed source and you can only download binary files&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;18&lt;/strong&gt; of those are open source (all of them on GitHub)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;13&lt;/strong&gt; are an easy target of person-in-the-middle attacks without any indication to the user
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;10&lt;/strong&gt; of them are closed source SDKs&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;3&lt;/strong&gt; of them are open source SDKs, meaning the user can either download the SDK via unencrypted HTTP from the official website, or securely clone the source code from GitHub&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;5&lt;/strong&gt; of the 41 SDKs offer no way to download the SDK securely, meaning they don’t support any HTTPS at all, nor use a service that does (e.g. GitHub)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;31%&lt;/strong&gt; of the top used SDKs are easy targets for this attack&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;5&lt;/strong&gt; additional SDKs required an account to download the SDK (do they have something to hide?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I notified all affected in November/December 2017, giving them 2 months to resolve the issue before publicly talking about it. Out of the 13 affected SDKs&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;1&lt;/strong&gt; resolved the issue within three business days&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;5&lt;/strong&gt; resolved the issue within a month&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;7&lt;/strong&gt; SDKs are still vulnerable to this attack at the time of publishing this post.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The SDK providers that are still affected haven’t responded to my emails, or just replied with “We’re gonna look into this” - all of them in the top 50 most most-used SDKs.&lt;/p&gt;
+
+&lt;p&gt;Looking through the available CocoaPods, there are a total of &lt;strong&gt;4,800&lt;/strong&gt; releases affected, from a total of &lt;strong&gt;623&lt;/strong&gt; CocoaPods. I generated this data locally using the &lt;code class=&quot;highlighter-rouge&quot;&gt;Specs&lt;/code&gt; repo with the command &lt;code class=&quot;highlighter-rouge&quot;&gt;grep -l -r '&quot;http&quot;: &quot;http://' *&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;open-source-vs-closed-source&quot;&gt;Open Source vs Closed Source&lt;/h3&gt;
+
+&lt;p&gt;Looking the number above, you are much likely to be affected by attacks if you use closed source SDKs. More importantly: When an SDK is closed source, it’s much harder for you to verify the integrity of the dependency. As you probably know, you should always &lt;a href=&quot;https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control&quot;&gt;check the Pods directory into version control&lt;/a&gt;, to detect changes and be able to audit your dependency updates. 100% of the open source SDKs I investigated can be used directly from GitHub, meaning even the 3 SDKs affected are not actually affected if you make sure to use the version on GitHub instead of taking it from the provider’s website.&lt;/p&gt;
+
+&lt;p&gt;Based on the numbers above it is clear that in addition to not being able to dive into the source code for closed source SDKs you also have a much higher risk of being attacked. Not only person-in-the-middle attacks, but also:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The attacker gains access to the SDK download server&lt;/li&gt;
+  &lt;li&gt;The company providing the SDK gets compromised&lt;/li&gt;
+  &lt;li&gt;The local government forces the company to include back-doors&lt;/li&gt;
+  &lt;li&gt;The company providing the SDK is evil and includes code &amp;amp; tracking you don’t want&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;You are responsible for the binaries you ship!&lt;/strong&gt; You have to make sure you don’t break your user’s trust, European Union data protection laws (&lt;a href=&quot;https://www.eugdpr.org/&quot;&gt;GDPR&lt;/a&gt;) or steal the user’s credentials via a malicious SDK.&lt;/p&gt;
+
+&lt;h2 id=&quot;wrapping-up&quot;&gt;Wrapping up&lt;/h2&gt;
+
+&lt;p&gt;As a developer, it’s our responsibility to make sure we only ship code we trust. One of the easiest attack vectors right now is via malicious SDKs. If an SDK is open source, hosted on GitHub, and is installed via CocoaPods, you’re pretty safe. Be extra careful with bundling closed-source binaries or SDKs you don’t fully trust.&lt;/p&gt;
+
+&lt;p&gt;Since this type of attack can be done with little trace, you will not be able to easily find if your codebase is affected. By using open source code, we as developers can better protect ourselves, and with it, our customers.&lt;/p&gt;
+
+&lt;p&gt;Check out my &lt;a href=&quot;/privacy&quot;&gt;other privacy and security related publications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;update-crowdsourced-list-of-sdks&quot;&gt;Update: Crowdsourced list of SDKs&lt;/h2&gt;
+
+&lt;p&gt;Many people asked for a list of affected SDKs. Instead of publishing a static list, I decided to setup a repo where every developer can add and update SDKs, check it out on &lt;a href=&quot;https://github.com/trusting-sdks/https&quot;&gt;trusting-sdks/https&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;thank-you&quot;&gt;Thank you&lt;/h2&gt;
+
+&lt;p&gt;Special thanks to &lt;a href=&quot;https://twitter.com/acrooow&quot;&gt;Manu Wallner&lt;/a&gt; for doing the voice recordings for the video.&lt;/p&gt;
+
+&lt;p&gt;Special thanks to my friends for providing feedback on this post: &lt;a href=&quot;https://twitter.com/jasdev&quot;&gt;Jasdev Singh&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/schukin&quot;&gt;Dave Schukin&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/acrooow&quot;&gt;Manu Wallner&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/domysee&quot;&gt;Dominik Weber&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/giladronat&quot;&gt;Gilad&lt;/a&gt;, &lt;a href=&quot;http://haunold.me/&quot;&gt;Nicolas Haunold&lt;/a&gt; and Neel Rao.&lt;/p&gt;</content><author><name></name></author><category term="security" /><category term="privacy" /><category term="sdks" /><summary type="html">Third-party SDKs can often easily be modified while you download them! Using a simple person-in-the-middle attack, anyone in the same network can insert malicious code into the library, and with that into your application, as a result running in your user’s pockets.</summary></entry><entry><title type="html">Mac Privacy: Sandboxed Mac apps can record your screen at any time without you knowing</title><link href="https://krausefx.com//blog/mac-privacy-sandboxed-mac-apps-can-take-screenshots" rel="alternate" type="text/html" title="Mac Privacy: Sandboxed Mac apps can record your screen at any time without you knowing" /><published>2018-02-10T00:00:00+00:00</published><updated>2018-02-10T00:00:00+00:00</updated><id>https://krausefx.com//blog/mac-privacy-sandboxed-mac-apps-can-take-screenshots</id><content type="html" xml:base="https://krausefx.com//blog/mac-privacy-sandboxed-mac-apps-can-take-screenshots">&lt;h2 id=&quot;facts&quot;&gt;Facts&lt;/h2&gt;
+
+&lt;p&gt;Any Mac app, sandboxed or not sandboxed can:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Take screenshots of your Mac silently without you knowing&lt;/li&gt;
+  &lt;li&gt;Access every pixel, even if the Mac app is in the background&lt;/li&gt;
+  &lt;li&gt;Use basic &lt;a href=&quot;https://en.wikipedia.org/wiki/Optical_character_recognition&quot;&gt;OCR software&lt;/a&gt; to read the text on the screen&lt;/li&gt;
+  &lt;li&gt;Access all connected monitors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;whats-the-worst-that-could-happen&quot;&gt;What’s the worst that could happen?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Read password and keys from password managers&lt;/li&gt;
+  &lt;li&gt;Detect what web services you use (e.g. email provider)&lt;/li&gt;
+  &lt;li&gt;Read all emails and messages you open on your Mac&lt;/li&gt;
+  &lt;li&gt;When a developer is targeted, this allows the attacker to potentially access sensitive source code, API keys or similar data&lt;/li&gt;
+  &lt;li&gt;Learn personal information about the user, like their bank details, salary, address, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/posts/mac-take-screenshots.png&quot; target=&quot;_blank&quot;&gt;
+  &lt;img src=&quot;/assets/posts/mac-take-screenshots.png&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h2&gt;
+
+&lt;p&gt;This project is a proof of concept and should not be used in production. The goal is to highlight a privacy loophole that can be abused by Mac apps.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-i-protect-myself-as-a-user&quot;&gt;How can I protect myself as a user?&lt;/h2&gt;
+
+&lt;p&gt;To my knowledge there is no way to protect yourself as of now.&lt;/p&gt;
+
+&lt;h2 id=&quot;proposal&quot;&gt;Proposal&lt;/h2&gt;
+
+&lt;p&gt;There are lots of valid use-cases for Mac apps to record the screen, e.g. &lt;a href=&quot;https://support.1password.com/one-time-passwords/&quot;&gt;1Password 2fA support&lt;/a&gt;, screen recording software or even simple screen sharing via your web browser or Skype. However there must be some kind of control:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The App Store review process could verify the Sandbox entitlements for accessing the screen&lt;/li&gt;
+  &lt;li&gt;Put the user in charge with a permission dialog&lt;/li&gt;
+  &lt;li&gt;Additionally the user should be notified whenever an app accesses the screen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course, I also &lt;a href=&quot;https://openradar.appspot.com/radar?id=5610698700750848&quot;&gt;filed a radar&lt;/a&gt; (rdar://37423927) to notify Apple about this issue.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h2&gt;
+
+&lt;p&gt;A developer just needs to use &lt;code class=&quot;highlighter-rouge&quot;&gt;CGWindowListCreateImage&lt;/code&gt; to generate a capture of the complete screen within an instant:&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;no&quot;&gt;CGImageRef&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screenshot&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;CGWindowListCreateImage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+  &lt;span class=&quot;no&quot;&gt;CGRectInfinite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;n&quot;&gt;kCGWindowListOptionOnScreenOnly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;n&quot;&gt;kCGNullWindowID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;n&quot;&gt;kCGWindowImageDefault&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;no&quot;&gt;NSBitmapImageRep&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bitmapRep&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[[&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;NSBitmapImageRep&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alloc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;initWithCGImage&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:screenshot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In my experiments, I piped the generated image over to a &lt;a href=&quot;https://en.wikipedia.org/wiki/Optical_character_recognition&quot;&gt;OCR library&lt;/a&gt; and was able to get all text that was rendered on the user’s machine.&lt;/p&gt;
+
+&lt;h2 id=&quot;similar-projects-ive-worked-on&quot;&gt;Similar projects I’ve worked on &lt;/h2&gt;
+
+&lt;p&gt;I published more posts on how to access the camera, the user’s location data, their Mac screen and their iCloud password, check out &lt;a href=&quot;/privacy&quot;&gt;krausefx.com/privacy&lt;/a&gt; for more.&lt;/p&gt;</content><author><name></name></author><category term="mac" /><category term="screenshot" /><category term="privacy" /><summary type="html">Facts</summary></entry><entry><title type="html">Introducing Overkill - Don’t let iTunes interrupt your workflow</title><link href="https://krausefx.com//blog/introducing-overkill-dont-let-itunes-interrupt-your-workflow" rel="alternate" type="text/html" title="Introducing Overkill - Don't let iTunes interrupt your workflow" /><published>2017-12-12T00:00:00+00:00</published><updated>2017-12-12T00:00:00+00:00</updated><id>https://krausefx.com//blog/introducing-overkill-dont-let-itunes-interrupt-your-workflow</id><content type="html" xml:base="https://krausefx.com//blog/introducing-overkill-dont-let-itunes-interrupt-your-workflow">&lt;p&gt;Exactly one year after the initial launch of Overkill as a shell script, after being &lt;a href=&quot;https://www.producthunt.com/posts/overkill&quot;&gt;#1 on ProductHunt&lt;/a&gt;, I’m extremely excited to announce that &lt;strong&gt;Overkill is now a native Mac app&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Did iTunes ever launch without you opening it? Use Overkill to instantly kill the iTunes process once it opened itself, so your workflow isn’t interrupted.&lt;/p&gt;
+
+&lt;p style=&quot;color: #888; margin-left: 20px&quot;&gt;But Felix, you can use the check box to not launch iTunes when you connect your phone!&lt;/p&gt;
+
+&lt;p&gt;Yes, that is correct, but connecting a device to your Mac is only one of the many reasons when iTunes can’t wait to spread joy:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You click the play/pause key while listening to a web-based music player (e.g. SoundCloud, YouTube)&lt;/li&gt;
+  &lt;li&gt;Someone sent you a link to an iOS app&lt;/li&gt;
+  &lt;li&gt;You click on a link on the web, and didn’t expect it to be a Music link&lt;/li&gt;
+  &lt;li&gt;You updated iTunes&lt;/li&gt;
+  &lt;li&gt;You launch iTunes by clicking on the icon by mistake&lt;/li&gt;
+  &lt;li&gt;You open a video/music file in Finder, and forgot to change the default app to VLC&lt;/li&gt;
+  &lt;li&gt;You connect Bluetooth headphones&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;before-overkill&quot;&gt;Before Overkill&lt;/h3&gt;
+
+&lt;div class=&quot;video&quot;&gt;
+  &lt;figure&gt;
+    &lt;iframe width=&quot;670&quot; height=&quot;400&quot; src=&quot;//www.youtube.com/embed/4kn-HefqjXE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As you can see in the video above, iTunes would launch while you’re typing something, stealing the window focus, and making this sound we all love to hear.&lt;/p&gt;
+
+&lt;h3 id=&quot;with-overkill&quot;&gt;With Overkill&lt;/h3&gt;
+
+&lt;div class=&quot;video&quot;&gt;
+  &lt;figure&gt;
+    &lt;iframe width=&quot;670&quot; height=&quot;400&quot; src=&quot;//www.youtube.com/embed/Uk2oEKMC2_k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;With Overkill, you connect your iPhone to charge it, and you can still use your Mac.&lt;/p&gt;
+
+&lt;h2 id=&quot;introducing-overkill-for-mac&quot;&gt;Introducing Overkill for Mac&lt;/h2&gt;
+
+&lt;p&gt;Overkill is a simple, elegant Mac app, that runs in the background and makes sure iTunes never interrupts your work. 
+And for those movie nights where you actually want to use iTunes, just click on &lt;code class=&quot;highlighter-rouge&quot;&gt;Pause Overkill&lt;/code&gt; and enjoy the evening.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/overkill.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have other apps you don’t want to launch automatically (e.g. Photos app), you can add those apps to the Overkill list as well.&lt;/p&gt;
+
+&lt;p&gt;No installation required, just download Overkill from the link below, double click the Overkill icon, and you’re good to go!&lt;/p&gt;
+
+&lt;h3 style=&quot;text-align: center; font-size: 35px; margin-bottom: 50px&quot;&gt;
+  &lt;a href=&quot;https://github.com/KrauseFx/overkill-for-mac/releases/download/1.0/Overkill.zip&quot; target=&quot;_blank&quot; style=&quot;color: #60A74E !important; text-decoration: underline;&quot;&gt;
+    Download Overkill Mac App
+  &lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;Unfortunately I couldn’t submit Overkill to the Mac App Store, as the sandboxing doesn’t allow the termination of other processes.&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Runs silently in the background, and kills iTunes&lt;/li&gt;
+  &lt;li&gt;Easily pause Overkill if you want to use iTunes&lt;/li&gt;
+  &lt;li&gt;Support for both Dark and Light mode of the menu bar&lt;/li&gt;
+  &lt;li&gt;Supports auto start&lt;/li&gt;
+  &lt;li&gt;Supports any Mac app, e.g. add the Photos app to be killed also&lt;/li&gt;
+  &lt;li&gt;No CPU usage, no polling, no analytics, just 300 lines of native Mac code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, as most of the project I work on, Overkill is 100% open source under the MIT license:&lt;/p&gt;
+
+&lt;h3 style=&quot;text-align: center; font-size: 30px; margin-top: 0px&quot;&gt;
+  &lt;a href=&quot;https://github.com/KrauseFx/overkill-for-mac&quot; target=&quot;_blank&quot; style=&quot;text-decoration: underline;&quot;&gt;
+    Open on GitHub
+  &lt;/a&gt;
+&lt;/h3&gt;</content><author><name></name></author><category term="itunes" /><category term="overkill" /><summary type="html">Exactly one year after the initial launch of Overkill as a shell script, after being #1 on ProductHunt, I’m extremely excited to announce that Overkill is now a native Mac app.</summary></entry></feed>

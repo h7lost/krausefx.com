@@ -1,26 +1,880 @@
----
-layout: page
-title: Archive
-permalink: /archive
----
+<!DOCTYPE html>
+<html lang="en">
 
-<section class="archive-post-list">
-{% for post in site.posts %}
-   {% assign currentDate = post.date | date: "%Y" %}
-   {% if currentDate != myDate %}
-       {% unless forloop.first %}</ul>{% endunless %}
-       <h1>{{ currentDate }}</h1>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    
+      Archive &middot; Felix Krause
+    
+  </title>
+  
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Felix Krause" href="/feed.xml">
+  
+    <script>
+  // Google Analytics
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18658848-6', 'auto');
+  ga('set', 'anonymizeIp', true)
+  ga('send', 'pageview');
+</script>
+
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    <a class="site-title" href="/">Felix Krause</a>
+  
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+            <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+            <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          </svg>
+        </span>
+      </label>
+
+      <div class="trigger">
+        <a href="/" class="page-link ">Blog</a>
+        <a href="/privacy" class="page-link ">Privacy</a>
+        <a href="/archive" class="page-link active">Archive</a>
+        <a href="/about" class="page-link ">About</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <section class="archive-post-list">
+
+   
+   
+       
+       <h1>2018</h1>
        <ul>
-       {% assign myDate = currentDate %}
-   {% endif %}
+       
+   
    
    <li>
-    <a href="{{ post.url }}" class="archiveLink">
-      <span class="archiveSpan">{{ post.date | date: "%B %-d, %Y" }}</span> - <span class="archiveTitle">{{ post.title }}</span>
+    <a href="/blog/continuous-delivery-for-your-profile-picture" class="archiveLink">
+      <span class="archiveSpan">December 30, 2018</span> - <span class="archiveTitle">How I silently changed my profile picture every other year</span>
     </a>
   </li>
-  {% if forloop.last %}</ul>{% endif %}
-{% endfor %}
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/one-year-nomad" class="archiveLink">
+      <span class="archiveSpan">November 9, 2018</span> - <span class="archiveTitle">One year nomad - a review</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/ios-factor" class="archiveLink">
+      <span class="archiveSpan">July 7, 2018</span> - <span class="archiveTitle">iOS-factor: A methodology for building high-quality iOS apps</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/ios-app-network-sandboxing" class="archiveLink">
+      <span class="archiveSpan">May 23, 2018</span> - <span class="archiveTitle">iOS apps should be inside a network sandbox</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/going-nomad" class="archiveLink">
+      <span class="archiveSpan">March 24, 2018</span> - <span class="archiveTitle">Going nomad</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/how-i-use-twitter" class="archiveLink">
+      <span class="archiveSpan">March 6, 2018</span> - <span class="archiveTitle">How I use Twitter</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/follow-user" class="archiveLink">
+      <span class="archiveSpan">March 3, 2018</span> - <span class="archiveTitle">iOS Privacy: Track website activities, steal user data & credentials and add your own ads to any website in your iOS app</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/trusting-sdks" class="archiveLink">
+      <span class="archiveSpan">February 15, 2018</span> - <span class="archiveTitle">Trusting third party SDKs</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/mac-privacy-sandboxed-mac-apps-can-take-screenshots" class="archiveLink">
+      <span class="archiveSpan">February 10, 2018</span> - <span class="archiveTitle">Mac Privacy: Sandboxed Mac apps can record your screen at any time without you knowing</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2017</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/introducing-overkill-dont-let-itunes-interrupt-your-workflow" class="archiveLink">
+      <span class="archiveSpan">December 12, 2017</span> - <span class="archiveTitle">Introducing Overkill - Don't let iTunes interrupt your workflow</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/introducing-major-key-easily-jot-down-quick-notes" class="archiveLink">
+      <span class="archiveSpan">November 26, 2017</span> - <span class="archiveTitle">Introducing Major Key - Easily jot down quick notes</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running" class="archiveLink">
+      <span class="archiveSpan">October 25, 2017</span> - <span class="archiveTitle">iOS Privacy: watch.user - Access both iPhone cameras any time your app is running</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking" class="archiveLink">
+      <span class="archiveSpan">October 10, 2017</span> - <span class="archiveTitle">iOS Privacy: steal.password - Easily get the user's Apple ID password, just by asking</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/ios-privacy-detectlocation-an-easy-way-to-access-the-users-ios-location-data-without-actually-having-access" class="archiveLink">
+      <span class="archiveSpan">October 9, 2017</span> - <span class="archiveTitle">iOS Privacy: detect.location - An easy way to access the user's iOS location data without actually having access</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/crypto-summaries-an-api-to-get-short-summaries-of-key-features-of-crypto-currencies" class="archiveLink">
+      <span class="archiveSpan">September 26, 2017</span> - <span class="archiveTitle">Crypto-Summaries: An API to get short summaries of key features of crypto currencies</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/ios-privacy-whats-the-user-doing" class="archiveLink">
+      <span class="archiveSpan">September 5, 2017</span> - <span class="archiveTitle">iOS Privacy: What's the user doing?</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/how-to-get-started-contributing-to-open-source-projects" class="archiveLink">
+      <span class="archiveSpan">August 28, 2017</span> - <span class="archiveTitle">How to get started contributing to open source projects</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/analyzing-your-public-github-contributions-using-google-big-query" class="archiveLink">
+      <span class="archiveSpan">August 6, 2017</span> - <span class="archiveTitle">Analyzing your public GitHub contributions using Google Big Query</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/introducing-fastlane-precheck" class="archiveLink">
+      <span class="archiveSpan">June 22, 2017</span> - <span class="archiveTitle">Introducing fastlane precheck</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/the-developer-part-of-ios-code-signing-doesnt-add-any-security-to-anything" class="archiveLink">
+      <span class="archiveSpan">April 14, 2017</span> - <span class="archiveTitle">What is the value of iOS code signing?</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/joining-google" class="archiveLink">
+      <span class="archiveSpan">March 6, 2017</span> - <span class="archiveTitle">Joining Google</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/scaling-open-source-communities" class="archiveLink">
+      <span class="archiveSpan">January 31, 2017</span> - <span class="archiveTitle">Scaling open source communities</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/fastlane-is-joining-google" class="archiveLink">
+      <span class="archiveSpan">January 23, 2017</span> - <span class="archiveTitle">fastlane is joining Google</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2016</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/writing-automated-tests-for-your-documentation" class="archiveLink">
+      <span class="archiveSpan">November 1, 2016</span> - <span class="archiveTitle">Writing automated tests for your documentation</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/trainer-the-simplest-way-to-generate-a-junit-report-of-your-ios-tests" class="archiveLink">
+      <span class="archiveSpan">August 11, 2016</span> - <span class="archiveTitle">'trainer' - the simplest way to generate a JUnit report of your iOS tests</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/introducing-fastlane-device-grid-one-click-installation-2fa-more-apk-management-features-and-emoji-deployment" class="archiveLink">
+      <span class="archiveSpan">May 26, 2016</span> - <span class="archiveTitle">Introducing fastlane device grid, one-click installation, 2FA, more APK management features, and emoji deployment</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/use-custom-shortcuts-for-every-application" class="archiveLink">
+      <span class="archiveSpan">May 14, 2016</span> - <span class="archiveTitle">Be a 10x Mac user by using custom shortcuts for every application you use</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/fastlane-has-saved-over-1-million-developer-hours" class="archiveLink">
+      <span class="archiveSpan">April 7, 2016</span> - <span class="archiveTitle">fastlane has saved over 1 million developer hours</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/download-dsym-symbolication-files-from-itunes-connect-for-bitcode-ios-apps" class="archiveLink">
+      <span class="archiveSpan">April 1, 2016</span> - <span class="archiveTitle">Automatically download and upload dSYM symbolication files from iTunes Connect for Bitcode iOS apps using fastlane</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/our-goal-to-unify-fastlane-tools" class="archiveLink">
+      <span class="archiveSpan">February 24, 2016</span> - <span class="archiveTitle">Our goal to unify fastlane tools</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/introducing-screengrab-the-next-big-fastlane-tool-for-android" class="archiveLink">
+      <span class="archiveSpan">February 11, 2016</span> - <span class="archiveTitle">Introducing screengrab, the next big fastlane tool for Android</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2015</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/introducing-match-a-new-approach-to-code-signing" class="archiveLink">
+      <span class="archiveSpan">December 10, 2015</span> - <span class="archiveTitle">Introducing fastlane 'match': A new approach to code signing</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/fastlane-is-now-part-of-fabric" class="archiveLink">
+      <span class="archiveSpan">October 21, 2015</span> - <span class="archiveTitle">fastlane is now part of Fabric</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/ios-tools" class="archiveLink">
+      <span class="archiveSpan">August 11, 2015</span> - <span class="archiveTitle">Thoughts on iOS build tools</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/spaceship-now-also-supporting-itunes-connect" class="archiveLink">
+      <span class="archiveSpan">July 28, 2015</span> - <span class="archiveTitle">spaceship - now also supporting iTunes Connect</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/letting-computers-do-the-hard-work" class="archiveLink">
+      <span class="archiveSpan">July 22, 2015</span> - <span class="archiveTitle">Letting computers do the hard work</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/pilot-manage-your-testflight-builds-and-testers" class="archiveLink">
+      <span class="archiveSpan">July 21, 2015</span> - <span class="archiveTitle">pilot - Manage your TestFlight builds and testers</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/boarding-the-easiest-way-to-invite-your-testflight-beta-testers" class="archiveLink">
+      <span class="archiveSpan">July 21, 2015</span> - <span class="archiveTitle">boarding - The easiest way to invite your TestFlight beta testers</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/managing-fastlane-feedback" class="archiveLink">
+      <span class="archiveSpan">July 8, 2015</span> - <span class="archiveTitle">Managing fastlane feedback</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/creating-perfect-app-store-screenshots-of-your-ios-app" class="archiveLink">
+      <span class="archiveSpan">June 28, 2015</span> - <span class="archiveTitle">Creating perfect App Store Screenshots of your iOS App</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/fastlane-ios-meetups-in-tokyo" class="archiveLink">
+      <span class="archiveSpan">June 27, 2015</span> - <span class="archiveTitle">fastlane iOS Meetups in Tokyo</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/run-xcode-7-ui-tests-from-the-command-line" class="archiveLink">
+      <span class="archiveSpan">June 18, 2015</span> - <span class="archiveTitle">Run Xcode 7 UI Tests from the command line</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/8a6161b2xo8zlp3lmjydw8f7t5av55" class="archiveLink">
+      <span class="archiveSpan">June 11, 2015</span> - <span class="archiveTitle">spaceship - Launching fastlane into the next generation</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/fastlane-example-setups" class="archiveLink">
+      <span class="archiveSpan">May 13, 2015</span> - <span class="archiveTitle">fastlane Example Setups</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/fastlane-10" class="archiveLink">
+      <span class="archiveSpan">May 5, 2015</span> - <span class="archiveTitle">fastlane 1.0</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/fastlane-realtime-led-board" class="archiveLink">
+      <span class="archiveSpan">April 1, 2015</span> - <span class="archiveTitle">fastlane realtime LED board</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/codes-create-promo-codes-for-ios-apps-using-the-command-line" class="archiveLink">
+      <span class="archiveSpan">February 22, 2015</span> - <span class="archiveTitle">'codes' - Create promo codes for iOS Apps using the command line</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/cert-automatically-create-and-maintain-ios-code-signing-certificates" class="archiveLink">
+      <span class="archiveSpan">February 20, 2015</span> - <span class="archiveTitle">'cert' - Automatically create and maintain iOS code signing certificates</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/produce-create-new-apps-on-itunes-connect-and-apple-dev-portal" class="archiveLink">
+      <span class="archiveSpan">January 30, 2015</span> - <span class="archiveTitle">'produce' - Create new apps on iTunes Connect and Apple Dev Portal</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/deliver-the-missing-api-for-apples-new-testflight" class="archiveLink">
+      <span class="archiveSpan">January 28, 2015</span> - <span class="archiveTitle">'deliver' - the missing API for Apple's new TestFlight</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/fastlane-connect-all-ios-deployment-tools-into-one-streamlined-workflow" class="archiveLink">
+      <span class="archiveSpan">January 15, 2015</span> - <span class="archiveTitle">'fastlane' - Connect all iOS deployment tools into one streamlined workflow</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2014</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/sigh-create-renew-and-download-your-provisioning-profiles-using-one-command" class="archiveLink">
+      <span class="archiveSpan">November 26, 2014</span> - <span class="archiveTitle">'sigh' - Because you would rather spend your time building stuff than fighting provisioning</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/pem-maintain-and-generate-push-notifications-automatically" class="archiveLink">
+      <span class="archiveSpan">November 20, 2014</span> - <span class="archiveTitle">'PEM' - Maintain and generate push notifications automatically</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/frameit-add-gorgeous-device-frames-around-your-screenshots" class="archiveLink">
+      <span class="archiveSpan">November 12, 2014</span> - <span class="archiveTitle">'frameit' - Add gorgeous device frames around your screenshots</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/snapshot-automatically-create-screenshots-of-your-iphone-app" class="archiveLink">
+      <span class="archiveSpan">November 10, 2014</span> - <span class="archiveTitle">'snapshot' - Automatically create screenshots of your iPhone App</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/deliver-ruby-gem-to-automatically-release-ios-app-updates" class="archiveLink">
+      <span class="archiveSpan">September 28, 2014</span> - <span class="archiveTitle">'deliver' - Automatically release iOS app updates and screenshots</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2013</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/thread-safe-database-with-fmdb-sqlite-as-an-alternative-to-core-data-in-ios-apps" class="archiveLink">
+      <span class="archiveSpan">August 3, 2013</span> - <span class="archiveTitle">Thread safe database with FMDB (SQLite) as alternative to Core Data</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/bikemap-3-0" class="archiveLink">
+      <span class="archiveSpan">May 11, 2013</span> - <span class="archiveTitle">Bikemap 3.0</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/wifi-map" class="archiveLink">
+      <span class="archiveSpan">May 9, 2013</span> - <span class="archiveTitle">Wifimap - iPhone App</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/tsmessages" class="archiveLink">
+      <span class="archiveSpan">April 16, 2013</span> - <span class="archiveTitle">TSMessages</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/youthhotspot" class="archiveLink">
+      <span class="archiveSpan">March 4, 2013</span> - <span class="archiveTitle">YouthHotSpot</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/wandermap" class="archiveLink">
+      <span class="archiveSpan">March 4, 2013</span> - <span class="archiveTitle">Wandermap</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/automatic-screenshots-for-ios-apps" class="archiveLink">
+      <span class="archiveSpan">January 24, 2013</span> - <span class="archiveTitle">Automatic screenshots for iOS apps</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2012</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/runmap-wandermap-for-windows-phone" class="archiveLink">
+      <span class="archiveSpan">December 10, 2012</span> - <span class="archiveTitle">Runmap, Wandermap for WP</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/botball-2012" class="archiveLink">
+      <span class="archiveSpan">August 14, 2012</span> - <span class="archiveTitle">Botball 2012</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/itanky" class="archiveLink">
+      <span class="archiveSpan">May 2, 2012</span> - <span class="archiveTitle">iTanky</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/u19-freestyle-computing-competition" class="archiveLink">
+      <span class="archiveSpan">April 6, 2012</span> - <span class="archiveTitle">U19 competition</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2011</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/6-wunderkinder" class="archiveLink">
+      <span class="archiveSpan">September 2, 2011</span> - <span class="archiveTitle">6 Wunderkinder</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/net-awards-2011" class="archiveLink">
+      <span class="archiveSpan">August 1, 2011</span> - <span class="archiveTitle">.NET Awards 2011</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/how-to-fix-osstatus-error-2-time-machine-error" class="archiveLink">
+      <span class="archiveSpan">March 3, 2011</span> - <span class="archiveTitle">How to fix "OSStatus error 2" Time Machine Error</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/bikemap" class="archiveLink">
+      <span class="archiveSpan">March 2, 2011</span> - <span class="archiveTitle">Bikemap</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2010</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/chatbot" class="archiveLink">
+      <span class="archiveSpan">September 2, 2010</span> - <span class="archiveTitle">Chatbot</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/toursprung-intern" class="archiveLink">
+      <span class="archiveSpan">July 2, 2010</span> - <span class="archiveTitle">Toursprung intern</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/robocup-2010" class="archiveLink">
+      <span class="archiveSpan">June 2, 2010</span> - <span class="archiveTitle">Robocup 2010</span>
+    </a>
+  </li>
+  
+
+   
+   
+       </ul>
+       <h1>2009</h1>
+       <ul>
+       
+   
+   
+   <li>
+    <a href="/blog/golfstats" class="archiveLink">
+      <span class="archiveSpan">September 2, 2009</span> - <span class="archiveTitle">Golfstats</span>
+    </a>
+  </li>
+  
+
+   
+   
+   
+   <li>
+    <a href="/blog/knallgrau" class="archiveLink">
+      <span class="archiveSpan">July 2, 2009</span> - <span class="archiveTitle">Knallgrau</span>
+    </a>
+  </li>
+  </ul>
+
 </section>
 
 <!-- Via http://chris.house/blog/building-a-simple-archive-page-with-jekyll/ -->
@@ -47,3 +901,58 @@ permalink: /archive
   .archive-post-list > ul > li {
   }
 </style>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <li>
+            <a href="https://github.com/KrauseFx" target="_blank"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">KrauseFx</span></a>
+
+          </li>
+          <li>
+            <a href="https://twitter.com/KrauseFx" target="_blank"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">KrauseFx</span></a>
+
+          </li>
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2"></div>
+      <div class="footer-col footer-col-3">
+        <p class="subscribe-newsletter">
+  Want to be the first to hear about more privacy and mobile related essays?
+</p>
+
+<form class="subscribe-form" action="https://krausefx.us10.list-manage.com/subscribe/post?u=a84ca3495977afb89bf2b98fb&amp;id=d9610c8987" method="post" target="popupwindow" onsubmit="window.open('https://krausefx.us10.list-manage.com/subscribe/post?u=a84ca3495977afb89bf2b98fb', 'popupwindow', 'scrollbars=yes,width=600,height=620');return true">
+  <label for="tlemail"></label>
+  <input type="text" placeholder="Email Address" name="EMAIL" id="tlemail">
+  <input type="hidden" value="1" name="embed">
+  <button type="submit" name="subscribe">
+    Subscribe
+  </button>
+</form>
+
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+<script type="text/javascript">
+  var links = document.links;
+  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+    if (links[i].hostname != window.location.hostname) {
+      links[i].target = '_blank';
+    } 
+  }
+</script>
+
+
+  </body>
+
+</html>
